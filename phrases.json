@@ -1,0 +1,343 @@
+[
+  {
+    "id": "greetings",
+    "title": "Greetings",
+    "scene": "greeting",
+    "blurb": "The handful of phrases you will use every single day.",
+    "phrases": [
+      {
+        "ko": "안녕하세요",
+        "en": "Hello",
+        "note": "Works morning, noon and night, and for almost anyone."
+      },
+      {
+        "ko": "감사합니다",
+        "en": "Thank you"
+      },
+      {
+        "ko": "죄송합니다",
+        "en": "I am sorry"
+      },
+      {
+        "ko": "실례합니다",
+        "en": "Excuse me",
+        "note": "Use before asking a stranger something."
+      },
+      {
+        "ko": "네",
+        "en": "Yes"
+      },
+      {
+        "ko": "아니요",
+        "en": "No"
+      },
+      {
+        "ko": "안녕히 계세요",
+        "en": "Goodbye",
+        "note": "Say this to the person who stays."
+      },
+      {
+        "ko": "안녕히 가세요",
+        "en": "Goodbye",
+        "note": "Say this to the person who leaves."
+      }
+    ]
+  },
+  {
+    "id": "introduce",
+    "title": "Introducing Yourself",
+    "scene": "introduction",
+    "blurb": "Enough to get through a first meeting.",
+    "phrases": [
+      {
+        "ko": "만나서 반갑습니다",
+        "en": "Nice to meet you"
+      },
+      {
+        "ko": "이름이 뭐예요?",
+        "en": "What is your name?"
+      },
+      {
+        "ko": "저는 학생이에요",
+        "en": "I am a student"
+      },
+      {
+        "ko": "미국에서 왔어요",
+        "en": "I am from the United States"
+      },
+      {
+        "ko": "한국어를 배워요",
+        "en": "I am learning Korean"
+      },
+      {
+        "ko": "잘 부탁합니다",
+        "en": "Please treat me well",
+        "note": "A set phrase with no English equal — said when starting something together."
+      }
+    ]
+  },
+  {
+    "id": "cafe",
+    "title": "At a Cafe",
+    "scene": "cafe",
+    "blurb": "Ordering is the easiest place to start speaking.",
+    "phrases": [
+      {
+        "ko": "아메리카노 한 잔 주세요",
+        "en": "One americano, please"
+      },
+      {
+        "ko": "따뜻한 걸로 주세요",
+        "en": "Hot, please"
+      },
+      {
+        "ko": "아이스로 주세요",
+        "en": "Iced, please"
+      },
+      {
+        "ko": "여기서 먹을게요",
+        "en": "For here"
+      },
+      {
+        "ko": "포장해 주세요",
+        "en": "To go, please"
+      },
+      {
+        "ko": "얼마예요?",
+        "en": "How much is it?"
+      },
+      {
+        "ko": "카드로 할게요",
+        "en": "I will pay by card"
+      }
+    ]
+  },
+  {
+    "id": "restaurant",
+    "title": "At a Restaurant",
+    "scene": "restaurant",
+    "blurb": "Staff will ask the first question — be ready for it.",
+    "phrases": [
+      {
+        "ko": "몇 분이세요?",
+        "en": "How many people?",
+        "note": "The staff asks this as you walk in."
+      },
+      {
+        "ko": "두 명이요",
+        "en": "Two people"
+      },
+      {
+        "ko": "메뉴 좀 주세요",
+        "en": "Menu, please"
+      },
+      {
+        "ko": "이거 주세요",
+        "en": "This one, please",
+        "note": "Point at the menu — this alone will feed you."
+      },
+      {
+        "ko": "맵지 않게 해 주세요",
+        "en": "Not spicy, please"
+      },
+      {
+        "ko": "물 좀 주세요",
+        "en": "Water, please"
+      },
+      {
+        "ko": "맛있어요",
+        "en": "It is delicious"
+      },
+      {
+        "ko": "계산해 주세요",
+        "en": "The check, please"
+      }
+    ]
+  },
+  {
+    "id": "shopping",
+    "title": "Shopping",
+    "scene": "shopping",
+    "blurb": "Convenience stores, markets and clothing shops.",
+    "phrases": [
+      {
+        "ko": "이거 얼마예요?",
+        "en": "How much is this?"
+      },
+      {
+        "ko": "봉투 주세요",
+        "en": "A bag, please"
+      },
+      {
+        "ko": "입어 봐도 돼요?",
+        "en": "May I try it on?"
+      },
+      {
+        "ko": "다른 색 있어요?",
+        "en": "Do you have another colour?"
+      },
+      {
+        "ko": "좀 깎아 주세요",
+        "en": "Could you lower the price?",
+        "note": "Fine at a traditional market, not in a shop."
+      },
+      {
+        "ko": "그냥 볼게요",
+        "en": "I am just looking"
+      }
+    ]
+  },
+  {
+    "id": "directions",
+    "title": "Asking Directions",
+    "scene": "directions",
+    "blurb": "The questions that get you unstuck.",
+    "phrases": [
+      {
+        "ko": "화장실이 어디예요?",
+        "en": "Where is the bathroom?"
+      },
+      {
+        "ko": "지하철역이 어디예요?",
+        "en": "Where is the subway station?"
+      },
+      {
+        "ko": "여기가 어디예요?",
+        "en": "Where am I?"
+      },
+      {
+        "ko": "얼마나 걸려요?",
+        "en": "How long does it take?"
+      },
+      {
+        "ko": "걸어서 갈 수 있어요?",
+        "en": "Can I walk there?"
+      },
+      {
+        "ko": "이쪽이에요?",
+        "en": "Is it this way?"
+      }
+    ]
+  },
+  {
+    "id": "taxi",
+    "title": "Taking a Taxi",
+    "scene": "taxi",
+    "blurb": "Short, direct sentences work best here.",
+    "phrases": [
+      {
+        "ko": "여기로 가 주세요",
+        "en": "Please go here",
+        "note": "Show the address on your phone as you say it."
+      },
+      {
+        "ko": "공항으로 가 주세요",
+        "en": "To the airport, please"
+      },
+      {
+        "ko": "여기서 세워 주세요",
+        "en": "Please stop here"
+      },
+      {
+        "ko": "카드 돼요?",
+        "en": "Do you take cards?"
+      },
+      {
+        "ko": "영수증 주세요",
+        "en": "A receipt, please"
+      }
+    ]
+  },
+  {
+    "id": "stay",
+    "title": "At Your Accommodation",
+    "scene": "hotel",
+    "blurb": "Checking in and asking for what you need.",
+    "phrases": [
+      {
+        "ko": "체크인 할게요",
+        "en": "I would like to check in"
+      },
+      {
+        "ko": "예약했어요",
+        "en": "I have a reservation"
+      },
+      {
+        "ko": "와이파이 비밀번호가 뭐예요?",
+        "en": "What is the wifi password?"
+      },
+      {
+        "ko": "수건 좀 더 주세요",
+        "en": "More towels, please"
+      },
+      {
+        "ko": "몇 시에 체크아웃이에요?",
+        "en": "What time is checkout?"
+      }
+    ]
+  },
+  {
+    "id": "trouble",
+    "title": "When Something Is Wrong",
+    "scene": "pharmacy",
+    "blurb": "Keep these where you can find them quickly.",
+    "phrases": [
+      {
+        "ko": "도와주세요",
+        "en": "Please help me"
+      },
+      {
+        "ko": "배가 아파요",
+        "en": "My stomach hurts"
+      },
+      {
+        "ko": "머리가 아파요",
+        "en": "I have a headache"
+      },
+      {
+        "ko": "감기약 주세요",
+        "en": "Cold medicine, please"
+      },
+      {
+        "ko": "병원이 어디예요?",
+        "en": "Where is a hospital?"
+      }
+    ]
+  },
+  {
+    "id": "getting-by",
+    "title": "Getting By in Korean",
+    "scene": "conversation",
+    "blurb": "The phrases that buy you time when you are lost.",
+    "phrases": [
+      {
+        "ko": "한국어 잘 못해요",
+        "en": "I do not speak Korean well"
+      },
+      {
+        "ko": "천천히 말해 주세요",
+        "en": "Please speak slowly"
+      },
+      {
+        "ko": "다시 한 번 말해 주세요",
+        "en": "Please say that again"
+      },
+      {
+        "ko": "영어 할 수 있어요?",
+        "en": "Do you speak English?"
+      },
+      {
+        "ko": "무슨 뜻이에요?",
+        "en": "What does that mean?"
+      },
+      {
+        "ko": "알겠어요",
+        "en": "I understand"
+      },
+      {
+        "ko": "모르겠어요",
+        "en": "I do not understand"
+      }
+    ]
+  }
+]

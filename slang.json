@@ -1,0 +1,112 @@
+[
+  {
+    "ko": "대박",
+    "en": "Amazing / no way",
+    "register": "casual",
+    "lit": "a big hit, a jackpot",
+    "note": "The all-purpose reaction to anything impressive or shocking. You will hear it constantly.",
+    "example": {
+      "ko": "대박! 진짜야?",
+      "en": "No way! Really?"
+    }
+  },
+  {
+    "ko": "헐",
+    "en": "Whoa / OMG",
+    "register": "casual",
+    "lit": "just a sound",
+    "note": "A short gasp of surprise or disbelief. Typed constantly in messages.",
+    "example": {
+      "ko": "헐, 언제 그랬어?",
+      "en": "Whoa, when did that happen?"
+    }
+  },
+  {
+    "ko": "꿀잼",
+    "en": "Really fun",
+    "register": "young",
+    "lit": "honey + fun",
+    "note": "Honey is used as a prefix meaning \"great\". The opposite is 노잼.",
+    "example": {
+      "ko": "이 드라마 꿀잼이야",
+      "en": "This drama is so much fun."
+    }
+  },
+  {
+    "ko": "노잼",
+    "en": "Boring",
+    "register": "young",
+    "lit": "no + fun",
+    "note": "The English \"no\" glued to 재미. Blunt but not rude.",
+    "example": {
+      "ko": "그 영화 노잼이었어",
+      "en": "That film was boring."
+    }
+  },
+  {
+    "ko": "인싸",
+    "en": "A social insider",
+    "register": "young",
+    "lit": "from the English \"insider\"",
+    "note": "Someone who is naturally in the middle of things. The opposite is 아싸, an outsider.",
+    "example": {
+      "ko": "쟤는 완전 인싸야",
+      "en": "She is totally the social type."
+    }
+  },
+  {
+    "ko": "갑분싸",
+    "en": "Sudden awkward silence",
+    "register": "young",
+    "lit": "suddenly + the mood + goes cold",
+    "note": "An abbreviation of 갑자기 분위기 싸해짐. Used when a joke lands badly.",
+    "example": {
+      "ko": "내 농담에 갑분싸 됐어",
+      "en": "My joke killed the mood."
+    }
+  },
+  {
+    "ko": "킹받다",
+    "en": "Really irritating",
+    "register": "young",
+    "lit": "king + to receive (anger)",
+    "note": "English \"king\" as an intensifier stuck onto 열받다. Playful rather than serious anger.",
+    "example": {
+      "ko": "아 진짜 킹받네",
+      "en": "Ugh, that is so annoying."
+    }
+  },
+  {
+    "ko": "케바케",
+    "en": "It depends",
+    "register": "casual",
+    "lit": "case by case",
+    "note": "A shortening of the English phrase. Handy when there is no single answer.",
+    "example": {
+      "ko": "사람마다 케바케야",
+      "en": "It depends on the person."
+    }
+  },
+  {
+    "ko": "존맛",
+    "en": "Insanely tasty",
+    "register": "careful",
+    "lit": "from a crude intensifier + taste",
+    "note": "Very common online and often written JMT. The first syllable comes from a vulgar word, so keep it away from work and older people. 정말 맛있어요 is the safe version.",
+    "example": {
+      "ko": "여기 진짜 존맛",
+      "en": "This place is unbelievably good."
+    }
+  },
+  {
+    "ko": "어쩔티비",
+    "en": "Whatever, deal with it",
+    "register": "young",
+    "lit": "what are you going to do + TV",
+    "note": "A teen taunt with no real meaning attached to the TV part. Fine as a joke between friends, dismissive to anyone else.",
+    "example": {
+      "ko": "어쩔티비~",
+      "en": "Yeah, whatever."
+    }
+  }
+]
