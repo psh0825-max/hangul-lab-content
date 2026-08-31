@@ -1,0 +1,49 @@
+[
+  {
+    "date": "2026-08-31",
+    "items": [
+      {
+        "kind": "ahead",
+        "topic": "drama",
+        "headline": "A new piano drama is airing this week",
+        "body": "\"Four Hands, Two Sonatas\" runs on tvN with Song Kang and Lee Jun Young as two arts-school students who become friends and rivals. If you are building a watch list, this is the one starting now.",
+        "source": {
+          "name": "What’s on Netflix",
+          "url": "https://www.whats-on-netflix.com/news/k-dramas/new-k-dramas-netflix-august-2026/"
+        },
+        "word": {
+          "ko": "배우",
+          "en": "actor"
+        }
+      },
+      {
+        "kind": "evergreen",
+        "topic": "travel",
+        "headline": "You still do not need a K-ETA — but you do need the arrival card",
+        "body": "Travellers from 22 countries, including the US, UK, Canada, Australia and Japan, stay exempt from K-ETA until 31 December 2026. Most visitors now submit a digital e-Arrival Card before flying instead.",
+        "source": {
+          "name": "Korea Tourism Organization",
+          "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=140769"
+        },
+        "word": {
+          "ko": "입국",
+          "en": "entry into a country"
+        }
+      },
+      {
+        "kind": "evergreen",
+        "topic": "food",
+        "headline": "Water is free, and you usually pour it yourself",
+        "body": "In most Korean restaurants water and the small side dishes come free, and refills are free too. Look for the water jug and cups stacked near the door or on a shelf — staff will not bring them to you.",
+        "source": {
+          "name": "Korea Tourism Organization",
+          "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=140769"
+        },
+        "word": {
+          "ko": "물",
+          "en": "water"
+        }
+      }
+    ]
+  }
+]
