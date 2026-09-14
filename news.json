@@ -45,5 +45,236 @@
         }
       }
     ]
+  },
+  {
+    "date": "2026-09-15",
+    "items": [
+      {
+        "kind": "ahead",
+        "topic": "weather",
+        "headline": "Autumn leaves will come late this year — Seoraksan turns on 3 October",
+        "body": "The Korea Tourism Organization’s 2026 forecast puts the first colour on Seoraksan on 3 October, with the peak around 25 October, and Bukhansan above Seoul peaking about 4 November. If you are planning a mountain trip, mid-October to early November is the window — the dates move with the weather.",
+        "source": {
+          "name": "Korea Tourism Organization",
+          "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=1593230"
+        },
+        "word": {
+          "ko": "단풍",
+          "en": "autumn leaves"
+        }
+      },
+      {
+        "kind": "evergreen",
+        "topic": "language",
+        "headline": "Since 2023 Korea counts age the way everyone else does",
+        "body": "Until June 2023 many Koreans gave their “Korean age”, which could run a year or two higher than their international age. Documents and the law now use only international age (만 나이), though you will still hear the old way in casual talk — so “how old are you?” can get two answers.",
+        "source": {
+          "name": "Library of Congress",
+          "url": "https://blogs.loc.gov/law/2023/01/koreans-becoming-younger-unification-of-age-counting-systems/"
+        },
+        "word": {
+          "ko": "나이",
+          "en": "age"
+        }
+      }
+    ]
+  },
+  {
+    "date": "2026-09-16",
+    "items": [
+      {
+        "kind": "ahead",
+        "topic": "travel",
+        "headline": "Chuseok is next week — book trains and hotels now",
+        "body": "Chuseok, the harvest holiday, falls on Friday 25 September; the official holiday runs Thursday 24 to Saturday 26, so most people are off through Sunday. Offices and many small restaurants close, while the subway, convenience stores, malls and big sights stay open. KTX seats and central hotels sell out first.",
+        "source": {
+          "name": "Korea Tourism Organization",
+          "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=231314"
+        },
+        "word": {
+          "ko": "연휴",
+          "en": "a run of holidays"
+        }
+      },
+      {
+        "kind": "evergreen",
+        "topic": "food",
+        "headline": "Songpyeon: the half-moon rice cake families make for Chuseok",
+        "body": "Songpyeon are small rice cakes filled with sesame, chestnut or sweet beans and steamed on a bed of pine needles, which is where the name comes from. Families traditionally shape them together the night before Chuseok, and every market and department store is full of them this week.",
+        "source": {
+          "name": "Korea.net",
+          "url": "https://www.korea.net/NewsFocus/Culture/view?articleId=140612"
+        },
+        "word": {
+          "ko": "송편",
+          "en": "songpyeon (rice cake)"
+        }
+      }
+    ]
+  },
+  {
+    "date": "2026-09-17",
+    "items": [
+      {
+        "kind": "ahead",
+        "topic": "culture",
+        "headline": "Read outdoors in the middle of Seoul — free, Fridays to Sundays",
+        "body": "The Seoul Outdoor Library puts out beanbags and thousands of books on Seoul Plaza, Gwanghwamun Square and along Cheonggyecheon every Friday to Sunday until 1 November. No ticket and no library card — sit down and stay as long as you like.",
+        "source": {
+          "name": "Seoul Metropolitan Government",
+          "url": "https://english.seoul.go.kr/september-2026-cultural-events/"
+        },
+        "word": {
+          "ko": "책",
+          "en": "book"
+        }
+      },
+      {
+        "kind": "evergreen",
+        "topic": "travel",
+        "headline": "One card for every bus, subway and taxi",
+        "body": "A T-money card from any convenience store works on public transport nationwide and gives you the transfer discount, so a bus-to-subway trip costs less than two separate fares. Top it up in cash at the store or at the machines in subway stations.",
+        "source": {
+          "name": "Korea Tourism Organization",
+          "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=140663"
+        },
+        "word": {
+          "ko": "교통카드",
+          "en": "transit card"
+        }
+      }
+    ]
+  },
+  {
+    "date": "2026-09-18",
+    "items": [
+      {
+        "kind": "ahead",
+        "topic": "drama",
+        "headline": "“The Scandal” lands on Netflix today",
+        "body": "Son Ye Jin and Ji Chang Wook lead this Joseon-era romance, a period retelling of Dangerous Liaisons with Nana in the cast. It is a full historical drama — palaces, hanbok and the formal speech you hear in sageuk.",
+        "source": {
+          "name": "What’s on Netflix",
+          "url": "https://www.whats-on-netflix.com/news/k-dramas/new-k-dramas-on-netflix-september-2026/"
+        },
+        "word": {
+          "ko": "사극",
+          "en": "historical drama"
+        }
+      },
+      {
+        "kind": "evergreen",
+        "topic": "culture",
+        "headline": "What Chuseok actually is",
+        "body": "Chuseok is the harvest festival on the fifteenth day of the eighth lunar month. Families gather, set a table of food for their ancestors and visit the family graves — the closest thing Korea has to Thanksgiving, and the one week a year when Seoul empties out.",
+        "source": {
+          "name": "Korea Tourism Organization",
+          "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=231314"
+        },
+        "word": {
+          "ko": "명절",
+          "en": "traditional holiday"
+        }
+      }
+    ]
+  },
+  {
+    "date": "2026-09-19",
+    "items": [
+      {
+        "kind": "ahead",
+        "topic": "music",
+        "headline": "A free orchestra concert in the park tonight",
+        "body": "The Seoul Philharmonic plays outdoors at Seoul Children’s Grand Park from 7 pm to 8:20 pm — no ticket, no reservation. Bring a mat and arrive as the sun goes down.",
+        "source": {
+          "name": "Seoul Metropolitan Government",
+          "url": "https://english.seoul.go.kr/september-2026-cultural-events/"
+        },
+        "word": {
+          "ko": "공연",
+          "en": "performance"
+        }
+      },
+      {
+        "kind": "ahead",
+        "topic": "festival",
+        "headline": "Guro’s Asian culture festival runs this weekend along Anyangcheon",
+        "body": "The Guro G Festival fills the stream banks between Gocheokgyo and Ogeumgyo bridges with food, stalls and performances from across Asia on 19 and 20 September. Take Line 1 to Guro or Line 2 to Guro Digital Complex.",
+        "source": {
+          "name": "Seoul Metropolitan Government",
+          "url": "https://english.seoul.go.kr/september-2026-cultural-events/"
+        },
+        "word": {
+          "ko": "주말",
+          "en": "weekend"
+        }
+      }
+    ]
+  },
+  {
+    "date": "2026-09-20",
+    "items": [
+      {
+        "kind": "ahead",
+        "topic": "festival",
+        "headline": "The Seoul Autumn Festival starts tomorrow and runs to 29 November",
+        "body": "Two months of open-air events across the city, from riverside shows on the Hangang to the fireworks festival in October. The city government’s English site posts each week’s line-up.",
+        "source": {
+          "name": "Seoul Metropolitan Government",
+          "url": "https://english.seoul.go.kr/september-2026-cultural-events/"
+        },
+        "word": {
+          "ko": "축제",
+          "en": "festival"
+        }
+      },
+      {
+        "kind": "evergreen",
+        "topic": "language",
+        "headline": "The one Chuseok greeting you can say to anyone",
+        "body": "“추석 잘 보내세요” — have a good Chuseok — works for a shopkeeper, a colleague or a host family. Drop the ending for friends: “추석 잘 보내”. Say it any time this week; nobody waits for the day itself.",
+        "source": {
+          "name": "Korea.net",
+          "url": "https://www.korea.net/NewsFocus/HonoraryReporters/view?articleId=175313"
+        },
+        "word": {
+          "ko": "인사",
+          "en": "greeting"
+        }
+      }
+    ]
+  },
+  {
+    "date": "2026-09-21",
+    "items": [
+      {
+        "kind": "ahead",
+        "topic": "festival",
+        "headline": "Andong’s mask dance festival opens Thursday and runs through Chuseok",
+        "body": "The Andong International Mask Dance Festival runs 24 September to 4 October at Talchum Park and around Andong station, with the Hahoe village mask dance at its centre. Andong is about two and a half hours from Seoul by train, which makes it a natural holiday trip.",
+        "source": {
+          "name": "Andong Festival & Tourism Foundation",
+          "url": "https://www.tourandong.com/eng/sub2/sub1.cshtml"
+        },
+        "word": {
+          "ko": "탈",
+          "en": "mask"
+        }
+      },
+      {
+        "kind": "ahead",
+        "topic": "drama",
+        "headline": "Busan’s film festival is 6–15 October",
+        "body": "The 31st Busan International Film Festival runs for ten days around the Busan Cinema Center, with more than three hundred films and dozens of world premieres. Popular screenings sell out within minutes of tickets opening, so watch the official site.",
+        "source": {
+          "name": "Busan International Film Festival",
+          "url": "https://www.biff.kr/eng/addon/10000001/page.asp?page_num=10597"
+        },
+        "word": {
+          "ko": "영화",
+          "en": "movie"
+        }
+      }
+    ]
   }
 ]

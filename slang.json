@@ -108,5 +108,71 @@
       "ko": "어쩔티비~",
       "en": "Yeah, whatever."
     }
+  },
+  {
+    "ko": "찐",
+    "en": "The real deal",
+    "register": "casual",
+    "lit": "short for 진짜, \"real\"",
+    "note": "A prefix that stamps something as genuine — 찐 맛집 is a place that actually deserves the hype. Also used alone as agreement: \"찐.\"",
+    "example": {
+      "ko": "여기 찐 맛집이야",
+      "en": "This place is the real deal."
+    }
+  },
+  {
+    "ko": "갓생",
+    "en": "Living your best, disciplined life",
+    "register": "young",
+    "lit": "God + life",
+    "note": "Waking early, studying, exercising, ticking boxes — and posting the routine. Half aspiration, half joke about how hard it is to keep up.",
+    "example": {
+      "ko": "요즘 갓생 살아",
+      "en": "These days I am living the disciplined life."
+    }
+  },
+  {
+    "ko": "오운완",
+    "en": "Workout done for today",
+    "register": "young",
+    "lit": "오늘 운동 완료, \"today’s exercise complete\"",
+    "note": "A gym-selfie caption and hashtag. Say it out loud and people will know exactly which app you learned Korean from.",
+    "example": {
+      "ko": "오운완! 오늘도 헬스장 다녀왔어",
+      "en": "Workout done! Went to the gym again today."
+    }
+  },
+  {
+    "ko": "손절",
+    "en": "To cut someone off",
+    "register": "casual",
+    "lit": "from 손절매, cutting your losses on a stock",
+    "note": "Ending a friendship or a relationship on purpose, the way a trader dumps a losing share. Blunt, so use it about your own life, not someone else’s.",
+    "example": {
+      "ko": "걔랑 손절했어",
+      "en": "I cut that person off."
+    }
+  },
+  {
+    "ko": "점메추",
+    "en": "Lunch recommendation, please",
+    "register": "young",
+    "lit": "점심 메뉴 추천, \"lunch menu recommendation\"",
+    "note": "Appears in group chats around 11:30 every day. The reply is usually a photo of someone else’s lunch.",
+    "example": {
+      "ko": "점메추 좀!",
+      "en": "Recommend me a lunch, someone!"
+    }
+  },
+  {
+    "ko": "스불재",
+    "en": "A disaster you brought on yourself",
+    "register": "young",
+    "lit": "스스로 불러온 재앙, \"a calamity you called down on yourself\"",
+    "note": "Said with a sigh about your own bad decision — the all-nighter, the third coffee, the impulse purchase.",
+    "example": {
+      "ko": "밤새 드라마 봤더니 스불재다",
+      "en": "I watched dramas all night — my own doing."
+    }
   }
 ]
