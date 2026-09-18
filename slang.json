@@ -174,5 +174,71 @@
       "ko": "밤새 드라마 봤더니 스불재다",
       "en": "I watched dramas all night — my own doing."
     }
+  },
+  {
+    "ko": "얼죽아",
+    "en": "Iced Americano, no matter the weather",
+    "register": "casual",
+    "lit": "얼어 죽어도 아이스 아메리카노, \"iced Americano even if I freeze to death\"",
+    "note": "The most-used piece of slang in a 2026 survey. Describes the huge tribe of Koreans who order iced coffee in January. Say it about yourself and any barista will smile.",
+    "example": {
+      "ko": "나 얼죽아야, 겨울에도 아아",
+      "en": "I am an iced-Americano person — even in winter."
+    }
+  },
+  {
+    "ko": "중꺾마",
+    "en": "What matters is not giving up",
+    "register": "casual",
+    "lit": "중요한 건 꺾이지 않는 마음, \"the important thing is a heart that does not bend\"",
+    "note": "Born at the 2022 World Cup and still everywhere — exam season, sports, job hunting. Safe with anyone; older people know it too.",
+    "example": {
+      "ko": "한 번 떨어졌지만 중꺾마!",
+      "en": "I failed once, but I am not giving up!"
+    }
+  },
+  {
+    "ko": "이왜진",
+    "en": "Wait, this is real?",
+    "register": "young",
+    "lit": "이게 왜 진짜?, \"why is this real?\"",
+    "note": "A three-syllable gasp at news that sounds like a joke but is not. Typed under viral posts more than said out loud.",
+    "example": {
+      "ko": "그 배우 결혼한대. 이왜진",
+      "en": "That actor is getting married. Wait, that is real?"
+    }
+  },
+  {
+    "ko": "럭키비키",
+    "en": "Lucky me — look on the bright side",
+    "register": "young",
+    "lit": "lucky + Vicky, IVE member Jang Wonyoung’s English name",
+    "note": "From a clip in which she called a setback lucky. Used with a wink whenever something goes wrong and you decide it was for the best. Jokey; not for a real crisis.",
+    "example": {
+      "ko": "비 와서 집에서 쉬네. 완전 럭키비키잖아",
+      "en": "It is raining, so I get to rest at home. Lucky me!"
+    }
+  },
+  {
+    "ko": "추구미",
+    "en": "The look or vibe you are going for",
+    "register": "young",
+    "lit": "추구 (to pursue) + 미 (beauty)",
+    "note": "The style and image you aspire to, as opposed to what you look like on a Monday. Common in fashion, beauty and idol talk: “my 추구미 is clean and quiet.”",
+    "example": {
+      "ko": "내 추구미는 깔끔한 스타일이야",
+      "en": "The look I am going for is clean and simple."
+    }
+  },
+  {
+    "ko": "현타",
+    "en": "A sudden crash back to reality",
+    "register": "casual",
+    "lit": "현실 자각 타임, \"reality-awareness time\"",
+    "note": "The moment after the fun — the empty delivery boxes, the credit-card bill, the 3 am scroll — when you see your life clearly and wince. Everyday word in twenties and thirties talk.",
+    "example": {
+      "ko": "쇼핑하고 나니까 현타 온다",
+      "en": "Now that I have shopped, reality is hitting me."
+    }
   }
 ]

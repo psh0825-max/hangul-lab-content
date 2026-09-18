@@ -276,5 +276,203 @@
         }
       }
     ]
+  },
+  {
+    "date": "2026-09-22",
+    "items": [
+      {
+        "kind": "ahead",
+        "topic": "culture",
+        "headline": "Forty years of a textile pioneer go on show today at the craft museum",
+        "body": "The Seoul Museum of Craft Art opens “Equinox: Autumn and Spring” on Tuesday 22 September, a retrospective of Chang Eung-bok, one of Korea’s first-generation textile designers. It is free, on the third floor of Exhibition Building 1, and stays up until 7 March 2027 — Tuesday to Sunday, 10 am to 6 pm, closed Mondays.",
+        "source": {
+          "name": "Seoul Metropolitan Government",
+          "url": "https://english.seoul.go.kr/september-2026-cultural-events/"
+        },
+        "word": {
+          "ko": "전시",
+          "en": "exhibition"
+        }
+      },
+      {
+        "kind": "ahead",
+        "topic": "travel",
+        "headline": "Roads out of Seoul jam from Wednesday afternoon — here is when to move",
+        "body": "Half the country heads to its 고향, the family hometown, this week. TMAP’s forecast puts the worst traffic out of Seoul on Wednesday afternoon and Thursday — a drive to Daejeon that normally takes under three hours is expected to take over four at 3 pm on Wednesday — and the heaviest traffic back into Seoul on Chuseok Day itself, Friday 25 September, from 8 am. If you are driving, Saturday and Sunday are the quieter days.",
+        "source": {
+          "name": "Korea JoongAng Daily",
+          "url": "https://www.koreajoongangdaily.com/korea/chuseok-traffic-forecast-busanseoul-trip-to-take-up-to-8-hours-on-sept-25/12880279"
+        },
+        "word": {
+          "ko": "고향",
+          "en": "hometown"
+        }
+      }
+    ]
+  },
+  {
+    "date": "2026-09-23",
+    "items": [
+      {
+        "kind": "ahead",
+        "topic": "travel",
+        "headline": "Every royal palace in Seoul is free from Thursday to Sunday",
+        "body": "Gyeongbokgung, Changdeokgung, Deoksugung and Changgyeonggung, plus Jongmyo Shrine and the Joseon royal tombs, waive admission from 24 to 27 September with no closing day. Jongmyo, normally a timed guided tour only, can be wandered freely, and the guard-changing ceremony at Gyeongbokgung runs at 10 am and 2 pm with no booking. Changdeokgung’s Secret Garden is the one exception and still needs its own ticket.",
+        "source": {
+          "name": "Herald Economy",
+          "url": "https://www.heraldk.com/article/2026091717274433520"
+        },
+        "word": {
+          "ko": "궁궐",
+          "en": "royal palace"
+        }
+      },
+      {
+        "kind": "evergreen",
+        "topic": "shopping",
+        "headline": "Why every supermarket is stacked with boxes of Spam this week",
+        "body": "Koreans give gift sets to relatives, friends and business contacts before Chuseok, and companies hand them to staff. Fruit, health supplements and beef top the surveys, but the flat boxes of canned ham, tuna and cooking oil are the ones that surprise visitors — canned ham has been a holiday gift since the 1980s, and about 60 percent of Spam sales come from the two big holidays. Stores clear whole aisles for them one to two weeks ahead.",
+        "source": {
+          "name": "Korea JoongAng Daily",
+          "url": "https://www.koreajoongangdaily.com/kjd-special/why-thanks-for-the-spam-the-curious-case-of-koreas-holiday-hampers/10914511"
+        },
+        "word": {
+          "ko": "선물",
+          "en": "gift"
+        }
+      }
+    ]
+  },
+  {
+    "date": "2026-09-24",
+    "items": [
+      {
+        "kind": "ahead",
+        "topic": "festival",
+        "headline": "Namsangol Hanok Village throws a three-day Chuseok festival from Friday",
+        "body": "Namsan Dalbit Madang runs Friday to Sunday, 25–27 September, 10 am to 8 pm, in the old houses of Namsangol Hanok Village near Chungmuro station. Expect traditional performances, hanbok to try on, old-fashioned games and a Korean food market. Entry is free; some activities and food are charged.",
+        "source": {
+          "name": "Seoul Metropolitan Government",
+          "url": "https://english.seoul.go.kr/september-2026-cultural-events/"
+        },
+        "word": {
+          "ko": "한옥",
+          "en": "traditional Korean house"
+        }
+      },
+      {
+        "kind": "ahead",
+        "topic": "culture",
+        "headline": "Museums are free this holiday — but most close on Chuseok Day itself",
+        "body": "The National Museum of Korea opens on 24, 26 and 27 September with free traditional music and dance performances each day, and all four MMCA branches are free for the whole four-day break. The National Museum, the National Folk Museum and MMCA Seoul close on Friday 25 September, so make Thursday or the weekend your museum day. The Folk Museum’s “All Together for Hangawi” adds ssireum wrestling and jegichagi, a game a bit like hacky sack.",
+        "source": {
+          "name": "The Korea Herald",
+          "url": "https://www.koreaherald.com/article/10877306"
+        },
+        "word": {
+          "ko": "박물관",
+          "en": "museum"
+        }
+      }
+    ]
+  },
+  {
+    "date": "2026-09-25",
+    "items": [
+      {
+        "kind": "ahead",
+        "topic": "weather",
+        "headline": "Tonight’s Chuseok moon rises over Seoul at 5:34 pm",
+        "body": "Chuseok falls on the full moon of the eighth lunar month, and going out to look at it is part of the day. In Seoul the moon comes up at about 5:34 pm on Friday and 5:59 pm on Saturday — but it is only perfectly full at 1:49 am on Sunday, so Saturday night is the rounder one if you want a photo.",
+        "source": {
+          "name": "Aju Business Daily",
+          "url": "https://www.ajunews.com/view/20260917152315562"
+        },
+        "word": {
+          "ko": "보름달",
+          "en": "full moon"
+        }
+      },
+      {
+        "kind": "evergreen",
+        "topic": "food",
+        "headline": "Jeon: the pan-fried slices that fill every Chuseok kitchen",
+        "body": "Jeon are slices of meat, vegetables or seafood coated in flour and egg and fried in a shallow pan, and the smell of them frying is the smell of the holiday. Families make stacks for the ancestral table and eat the rest for days. They are on restaurant menus year-round too — look for 모둠전, an assorted plate.",
+        "source": {
+          "name": "Korea Tourism Organization",
+          "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=219&vcontsId=1593350"
+        },
+        "word": {
+          "ko": "전",
+          "en": "jeon (pan-fried food)"
+        }
+      }
+    ]
+  },
+  {
+    "date": "2026-09-26",
+    "items": [
+      {
+        "kind": "ahead",
+        "topic": "festival",
+        "headline": "Try tuho and jegichagi at two Seoul museums today",
+        "body": "The Seoul Baekje Museum in Olympic Park holds its Chuseok festival on Saturday 26 September from 10 am to 5 pm, with performances, hands-on crafts and traditional games. Across town the Seoul Urban Life Museum runs gugak music, a magic show, tuho arrow-tossing, jegichagi and pouch-making from 1 to 5 pm. Both are free.",
+        "source": {
+          "name": "Seoul Metropolitan Government",
+          "url": "https://english.seoul.go.kr/september-2026-cultural-events/"
+        },
+        "word": {
+          "ko": "놀이",
+          "en": "game, play"
+        }
+      },
+      {
+        "kind": "evergreen",
+        "topic": "language",
+        "headline": "Hangawi: the other name for Chuseok",
+        "body": "You will see 한가위 on banners and hear it in greetings this week. It is the older, native-Korean name for the holiday, literally “the great middle” of autumn — the full moon in the middle of the eighth lunar month. 추석 is the Sino-Korean name; both mean the same day, and “즐거운 한가위 보내세요” works just as well as the Chuseok version.",
+        "source": {
+          "name": "Korea.net",
+          "url": "https://www.korea.net/NewsFocus/HonoraryReporters/view?articleId=175313"
+        },
+        "word": {
+          "ko": "한가위",
+          "en": "Hangawi (Chuseok)"
+        }
+      }
+    ]
+  },
+  {
+    "date": "2026-09-27",
+    "items": [
+      {
+        "kind": "ahead",
+        "topic": "drama",
+        "headline": "“Four Hands, Two Sonatas” plays its last episode next Sunday",
+        "body": "Song Kang’s piano drama reaches its finale on Netflix on Sunday 4 October, with new episodes still landing on Saturdays and Sundays until then — this is the week to catch up. The next weekly K-dramas follow straight after: the medical remake “Doctor X” from 9 October and the colonial-era spy drama “100 Days of Deception” from 10 October.",
+        "source": {
+          "name": "What’s on Netflix",
+          "url": "https://www.whats-on-netflix.com/news/k-dramas/netflix-october-2026-k-drama-release-dates/"
+        },
+        "word": {
+          "ko": "마지막",
+          "en": "last, final"
+        }
+      },
+      {
+        "kind": "evergreen",
+        "topic": "travel",
+        "headline": "1330: the number to call when you are stuck",
+        "body": "The Korea Travel Helpline answers on 1330 — from abroad +82-2-1330 — for anything from a lost bag to which bus to take, and it also has a text chat in Korean, English, Japanese, Chinese, Russian, Vietnamese, Thai and Indonesian. Save it now: on a holiday, when many shops are shut, it is the quickest way to find out what is open.",
+        "source": {
+          "name": "Korea Tourism Organization",
+          "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=219&vcontsId=1593350"
+        },
+        "word": {
+          "ko": "도움",
+          "en": "help"
+        }
+      }
+    ]
   }
 ]
