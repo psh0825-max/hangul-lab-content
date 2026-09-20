@@ -474,5 +474,236 @@
         }
       }
     ]
+  },
+  {
+    "date": "2026-09-28",
+    "items": [
+      {
+        "kind": "ahead",
+        "topic": "travel",
+        "headline": "Suwon’s fortress walls are lit up every night this week — last show Tuesday 6 October",
+        "body": "The Suwon Hwaseong Media Art show projects light and story onto Hwaseomun Gate, Janganmun Gate and Jangan Park from 6 pm to 10 pm nightly until 6 October, with a media park of installations, photo spots and food stalls between the gates. Suwon is on subway Line 1 south of Seoul, so it works as an evening trip; go on a weeknight if you want it quiet.",
+        "source": {
+          "name": "Dailian",
+          "url": "https://www.dailian.co.kr/news/view/1691159/"
+        },
+        "word": {
+          "ko": "빛",
+          "en": "light"
+        }
+      },
+      {
+        "kind": "evergreen",
+        "topic": "travel",
+        "headline": "How to get a train seat: sales open a month ahead at 7 am",
+        "body": "KTX and other Korail tickets go on sale one month before departure at 7 am, and can be bought at the station, on the Korail website, the KORAIL+ app, Naver or KakaoT right up to departure. Visitors can also buy a Korail Pass — 2, 3, 4 or 5 days of unlimited standard-class travel within ten days. The English help line is +82-1599-7777, 8 am to 8 pm.",
+        "source": {
+          "name": "Korea Tourism Organization",
+          "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=140656"
+        },
+        "word": {
+          "ko": "기차",
+          "en": "train"
+        }
+      }
+    ]
+  },
+  {
+    "date": "2026-09-29",
+    "items": [
+      {
+        "kind": "ahead",
+        "topic": "culture",
+        "headline": "Fifty gardens made by Seoul residents open in Yangjae on Thursday",
+        "body": "The autumn edition of the Seoul International Garden Show opens on 1 October at Maehun Citizen’s Forest in Yangjae and runs to 27 October, this time with about fifty gardens designed and planted by residents rather than professionals. There are guided garden walks each day and an outdoor “forest cinema” on the forest stage on weekend evenings from 7 to 9 pm.",
+        "source": {
+          "name": "Money Today",
+          "url": "https://www.mt.co.kr/estate/2026/09/01/2026090108595422694"
+        },
+        "word": {
+          "ko": "정원",
+          "en": "garden"
+        }
+      },
+      {
+        "kind": "evergreen",
+        "topic": "food",
+        "headline": "Press the button, not the waiter — and do not leave a tip",
+        "body": "Most Korean restaurant tables have a call button; press it and a server comes, so nobody is being ignored while you wait to catch an eye. If there is no button, a clear “저기요” does the same job. Spoons and chopsticks are usually in a drawer built into the table, refills of water and side dishes are free, and tipping is neither required nor expected.",
+        "source": {
+          "name": "Korea Tourism Organization",
+          "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=140727"
+        },
+        "word": {
+          "ko": "저기요",
+          "en": "excuse me (to get attention)"
+        }
+      }
+    ]
+  },
+  {
+    "date": "2026-09-30",
+    "items": [
+      {
+        "kind": "ahead",
+        "topic": "travel",
+        "headline": "A three-day weekend is coming: National Foundation Day falls on Saturday, so Monday is off",
+        "body": "Gaecheonjeol on 3 October marks the founding of the first Korean kingdom by the legendary Dangun, and because it lands on a Saturday this year, Monday 5 October is a substitute public holiday. Banks, offices and government counters close on Monday; shops, restaurants and transport run as normal, and the palaces and big sights stay open. Trains out of Seoul for the long weekend fill up early, so book now.",
+        "source": {
+          "name": "Korea Tourism Organization",
+          "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=140038"
+        },
+        "word": {
+          "ko": "공휴일",
+          "en": "public holiday"
+        }
+      },
+      {
+        "kind": "evergreen",
+        "topic": "travel",
+        "headline": "A national park inside the city: hiking is Seoul’s weekend religion",
+        "body": "Bukhansan, the highest mountain in Seoul, is one of the few national parks in the world that sits inside a city, and on an autumn weekend its trails are packed with hikers in full kit. You do not need your own gear — the Seoul Hiking Tourism Center near Bukhansan Ui station rents boots, jackets, poles and gloves. The ritual is gimbap and cup ramyeon at the top, then jeon and makgeolli at the bottom.",
+        "source": {
+          "name": "Korea Tourism Organization",
+          "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=227849"
+        },
+        "word": {
+          "ko": "등산",
+          "en": "hiking"
+        }
+      }
+    ]
+  },
+  {
+    "date": "2026-10-01",
+    "items": [
+      {
+        "kind": "ahead",
+        "topic": "culture",
+        "headline": "Sixty years of a media-art pioneer opens today at the Seoul Museum of Art",
+        "body": "The Seoul Museum of Art’s Seosomun main building, a short walk from City Hall station, opens a retrospective of Lynn Hershman Leeson on Thursday 1 October — the American artist and film-maker who has been making work about identity, screens and machines since the 1960s. It is her first museum solo show in Asia and stays up until 7 February 2027.",
+        "source": {
+          "name": "Seoul Metropolitan Government",
+          "url": "https://opengov.seoul.go.kr/mediahub/34984889"
+        },
+        "word": {
+          "ko": "미술관",
+          "en": "art museum"
+        }
+      },
+      {
+        "kind": "evergreen",
+        "topic": "food",
+        "headline": "The convenience store is also a kitchen",
+        "body": "Korean convenience stores are open around the clock, and most have a counter with hot water, a microwave and often a ramyeon cooker so you can eat what you just bought. The CU near Hongik University takes it furthest with a “Ramyun Library” of about 105 kinds of instant noodle, labelled in English with spice levels; you pay for the noodles plus a 900-won paper bowl and cook them yourself at the machine.",
+        "source": {
+          "name": "Korea Tourism Organization",
+          "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=195206"
+        },
+        "word": {
+          "ko": "편의점",
+          "en": "convenience store"
+        }
+      }
+    ]
+  },
+  {
+    "date": "2026-10-02",
+    "items": [
+      {
+        "kind": "ahead",
+        "topic": "festival",
+        "headline": "Jinju’s river fills with lanterns from Saturday",
+        "body": "The Jinju Namgang Yudeung Festival runs from 3 to 18 October around Jinjuseong Fortress and the Namgang river, with the lanterns lit from 6 pm to midnight every night. The custom goes back to the 1592 siege of the fortress, when defenders floated lanterns on the river to block the enemy at night and to send word to their families outside the walls; today thousands of them float on the Namgang and line the fortress.",
+        "source": {
+          "name": "Jinju Namgang Yudeung Festival",
+          "url": "https://yudeung.com/program/mainEvent"
+        },
+        "word": {
+          "ko": "등불",
+          "en": "lantern"
+        }
+      },
+      {
+        "kind": "ahead",
+        "topic": "festival",
+        "headline": "Two towns share a 1,500-year-old kingdom for nine days from Saturday",
+        "body": "The 72nd Baekje Cultural Festival runs 3 to 11 October in Buyeo and Gongju, the two old capitals of the Baekje kingdom in South Chungcheong. Buyeo stages its programme around the Jeongnimsa temple site and the town centre; Gongju opens on Saturday at 7 pm with a show of a thousand drones over Geumgang Singwan Park, and its events run along the river and up to Gongsanseong Fortress.",
+        "source": {
+          "name": "Baekje Cultural Festival",
+          "url": "https://www.baekjeculturalfestival.kr/"
+        },
+        "word": {
+          "ko": "역사",
+          "en": "history"
+        }
+      }
+    ]
+  },
+  {
+    "date": "2026-10-03",
+    "items": [
+      {
+        "kind": "ahead",
+        "topic": "festival",
+        "headline": "A king rides to Suwon tomorrow — the royal procession re-enactment is on Sunday",
+        "body": "Every autumn Seoul, Gyeonggi, Suwon and Hwaseong jointly re-stage King Jeongjo’s 1795 procession to his father’s tomb, and this year it is Sunday 4 October. The Suwon leg leaves the Nosong pine belt, passes the sports complex and Janganmun Gate and ends at Hwaseong Haenggung plaza, as a costumed procession with a citizens’ parade alongside. The Suwon Hwaseong Cultural Festival opens the same day and runs at the fortress until 11 October.",
+        "source": {
+          "name": "Incheon Ilbo",
+          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1332069"
+        },
+        "word": {
+          "ko": "성곽",
+          "en": "fortress walls"
+        }
+      },
+      {
+        "kind": "evergreen",
+        "topic": "language",
+        "headline": "Why Hangul can be learned in an afternoon",
+        "body": "King Sejong had the alphabet created in 1443 and proclaimed it in 1446 in a book called Hunminjeongeum, “the proper sounds for instructing the people”, so that ordinary Koreans would not have to learn Chinese characters. It has just 14 consonants and 10 vowels, stacked into syllable blocks, and literacy rose sharply once it spread. The original book is a national treasure and on UNESCO’s Memory of the World register.",
+        "source": {
+          "name": "Korea.net",
+          "url": "https://www.korea.net/NewsFocus/Culture/view?articleId=145583"
+        },
+        "word": {
+          "ko": "글자",
+          "en": "letter, character"
+        }
+      }
+    ]
+  },
+  {
+    "date": "2026-10-04",
+    "items": [
+      {
+        "kind": "ahead",
+        "topic": "culture",
+        "headline": "Next Friday is Hangul Day — and this year it is the hundredth",
+        "body": "Hangul Day on Friday 9 October is a public holiday marking the alphabet’s proclamation in 1446, which makes 2026 the 580th anniversary — and the 100th Hangul Day, first kept in 1926. The National Hangeul Museum has called this the “Year of Hangeul”, with a Hangeul Hanmadang festival of performances and hands-on activities on Gwanghwamun Square on the day itself. If you are learning the alphabet, this is the week to be seen doing it.",
+        "source": {
+          "name": "UPI",
+          "url": "https://www.upi.com/Top_News/World-News/2026/01/29/national-hangeul-museum-580th-anniversary-promulgation-Hunminjeongeum/4361769744967"
+        },
+        "word": {
+          "ko": "한글",
+          "en": "Hangul (the Korean alphabet)"
+        }
+      },
+      {
+        "kind": "ahead",
+        "topic": "culture",
+        "headline": "The palaces open at night from Wednesday for the autumn Royal Culture Festival",
+        "body": "The autumn K-Royal Culture Festival runs 7 to 11 October across Gyeongbokgung, Changdeokgung, Deoksugung, Changgyeonggung and Jongmyo Shrine, with daytime tours and workshops and evening performances against the lit-up palaces. It opens a day early with a free KBS “Immortal Songs” concert on Tuesday 6 October at 5 pm on the Heungnyemun plaza of Gyeongbokgung, though seats went by advance registration. Some festival programmes are free, others need a ticket — check the festival site.",
+        "source": {
+          "name": "Korea Heritage Agency",
+          "url": "https://www.kh.or.kr/fest"
+        },
+        "word": {
+          "ko": "야경",
+          "en": "night view"
+        }
+      }
+    ]
   }
 ]

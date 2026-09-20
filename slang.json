@@ -240,5 +240,71 @@
       "ko": "쇼핑하고 나니까 현타 온다",
       "en": "Now that I have shopped, reality is hitting me."
     }
+  },
+  {
+    "ko": "국룰",
+    "en": "The unwritten rule everyone follows",
+    "register": "casual",
+    "lit": "국민 룰, \"the people’s rule\"",
+    "note": "Something so standard it counts as law — fried chicken with beer, ramyeon after drinking, a selfie at the top of the mountain. Heard from teens to office workers; fine in most company.",
+    "example": {
+      "ko": "치킨엔 맥주가 국룰이지",
+      "en": "Beer with fried chicken — that is the rule."
+    }
+  },
+  {
+    "ko": "느좋",
+    "en": "Nice vibe",
+    "register": "young",
+    "lit": "느낌 좋다, \"the feeling is good\"",
+    "note": "The two-syllable caption under a photo of a cafe, a street or an outfit that just looks right. Written far more than spoken; older people may need it explained.",
+    "example": {
+      "ko": "이 카페 완전 느좋이다",
+      "en": "This cafe has such a nice vibe."
+    }
+  },
+  {
+    "ko": "폼 미쳤다",
+    "en": "On absolute fire",
+    "register": "young",
+    "lit": "\"form is crazy\"",
+    "note": "From football commentary — a player in crazy form — now said about idols, actors, a friend’s new haircut or your own good week. 미쳤다 (“crazy”) is a compliment here, but it is slangy, so not for the office.",
+    "example": {
+      "ko": "요즘 그 배우 폼 미쳤다",
+      "en": "That actor is on absolute fire lately."
+    }
+  },
+  {
+    "ko": "존버",
+    "en": "To hold on and wait it out",
+    "register": "careful",
+    "lit": "a crude intensifier + 버티다, \"to hold out\"",
+    "note": "Started with stock and crypto traders refusing to sell, now used for anything you grimly sit through. The first syllable is from a vulgar word, so it stays in chat and among friends — 버티다 or 기다리다 is the safe version.",
+    "example": {
+      "ko": "주식 떨어져도 존버한다",
+      "en": "Even if the stock drops, I am holding on."
+    }
+  },
+  {
+    "ko": "삼귀다",
+    "en": "To be almost-but-not-quite dating",
+    "register": "young",
+    "lit": "a pun: 사귀다 (to date) sounds like “four”, so one step before it is “three”",
+    "note": "The stage of texting every day and going out together without either person saying the word. Teens and twenties only; anyone older will hear “사귀다” and get confused.",
+    "example": {
+      "ko": "우리 아직 삼귀는 중이야",
+      "en": "We are still in the almost-dating stage."
+    }
+  },
+  {
+    "ko": "인정",
+    "en": "Fair enough / I admit it",
+    "register": "casual",
+    "lit": "\"acknowledgement\"",
+    "note": "A normal dictionary word turned into a one-word reply that means “yep, true.” Online it is typed as just the consonants ㅇㅈ, and as a question — 인정? — it asks “agreed?”. Fine with anyone your age; a little casual for a boss.",
+    "example": {
+      "ko": "이 집 진짜 맛있지? — 인정",
+      "en": "This place is really good, right? — Fair enough."
+    }
   }
 ]
