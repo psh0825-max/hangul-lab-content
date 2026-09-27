@@ -705,5 +705,236 @@
         }
       }
     ]
+  },
+  {
+    "date": "2026-10-05",
+    "items": [
+      {
+        "kind": "ahead",
+        "topic": "drama",
+        "headline": "Busan’s film festival opens tomorrow and runs for ten days",
+        "body": "The 31st Busan International Film Festival runs from 6 to 15 October around the Busan Cinema Center in Haeundae. This year it adds a competition section for the first time, with thirteen films in the running, alongside the long-standing gala, vision and documentary strands.",
+        "source": {
+          "name": "Busan International Film Festival",
+          "url": "https://www.biff.kr/kor/"
+        },
+        "word": {
+          "ko": "극장",
+          "en": "cinema, theatre"
+        }
+      },
+      {
+        "kind": "evergreen",
+        "topic": "shopping",
+        "headline": "Bank counters keep short hours — and today they are shut",
+        "body": "Korean bank branches are generally open 09:00 to 16:00 on weekdays only, so on a public holiday like today there is no counter service; Korea Post banking runs to 16:30. Notes come in 1,000, 5,000, 10,000 and 50,000 won, and cards are taken almost everywhere — hotels, department stores and ordinary shops. To change foreign currency you need a bank or an authorised exchange centre, and very old notes are not always accepted.",
+        "source": {
+          "name": "Korea Tourism Organization",
+          "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=140040"
+        },
+        "word": {
+          "ko": "은행",
+          "en": "bank"
+        }
+      }
+    ]
+  },
+  {
+    "date": "2026-10-06",
+    "items": [
+      {
+        "kind": "ahead",
+        "topic": "culture",
+        "headline": "Baseball’s regular season ends tomorrow, and then the ladder starts",
+        "body": "The KBO regular season, which started on 28 March, ends on Wednesday 7 October, after the league squeezed 105 rescheduled and rained-off games into the run-in. Five of the ten clubs then go into a step-ladder postseason that opens with a wild-card series and finishes in the Korean Series. Weekday games have been starting at 6:30 pm, weekend and holiday games earlier in the afternoon.",
+        "source": {
+          "name": "Sports Kyunghyang",
+          "url": "https://sports.khan.co.kr/article/202608251352003/"
+        },
+        "word": {
+          "ko": "야구",
+          "en": "baseball"
+        }
+      },
+      {
+        "kind": "evergreen",
+        "topic": "culture",
+        "headline": "Korea rents you a room for almost anything",
+        "body": "A lot of Korean leisure happens in a private room you rent by the hour: a noraebang for singing, a PC room for gaming, a board-game cafe with tens of thousands of games, an escape room, a comic-book cafe with honeycomb booths, even a sauna room for one or two. The Hongdae noraebang used in “Hospital Playlist” is a two-storey building of nothing but singing rooms. Nobody outside the room is watching, which is the whole point.",
+        "source": {
+          "name": "Korea Tourism Organization",
+          "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=862&dataSetId=70&vcontsId=200685"
+        },
+        "word": {
+          "ko": "노래",
+          "en": "song"
+        }
+      }
+    ]
+  },
+  {
+    "date": "2026-10-07",
+    "items": [
+      {
+        "kind": "ahead",
+        "topic": "drama",
+        "headline": "Two new dramas land on Friday, both twelve episodes",
+        "body": "“Doctor X” arrives on 9 October and runs Fridays and Saturdays, with Kim Ji Won as a surgeon who proves herself with a scalpel and makes enemies of the hospital hierarchy. The same day brings “Take Charge of My Heart” with Kim Young Kwang and Chae Soo Bin, in which a man living with an artificial heart meets a woman who can generate electricity.",
+        "source": {
+          "name": "What’s on Netflix",
+          "url": "https://www.whats-on-netflix.com/news/k-dramas/netflix-october-2026-k-drama-release-dates/"
+        },
+        "word": {
+          "ko": "의사",
+          "en": "doctor"
+        }
+      },
+      {
+        "kind": "evergreen",
+        "topic": "culture",
+        "headline": "Wear a hanbok and the palaces let you in free",
+        "body": "Gyeongbokgung, Changdeokgung, Changgyeonggung and Deoksugung all waive admission for anyone wearing hanbok, which is why the streets by the palace gates are full of people in rented silk. The shops there carry both traditional and modern cuts and usually include hair and accessories. This is a good week for it — the palaces are running their autumn festival from today until Sunday.",
+        "source": {
+          "name": "Korea Tourism Organization",
+          "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=129527"
+        },
+        "word": {
+          "ko": "한복",
+          "en": "hanbok, traditional dress"
+        }
+      }
+    ]
+  },
+  {
+    "date": "2026-10-08",
+    "items": [
+      {
+        "kind": "ahead",
+        "topic": "music",
+        "headline": "Jazz takes over an island in Gapyeong from tomorrow",
+        "body": "The 23rd Jarasum Jazz Festival runs from 9 to 11 October on Jara Island and around Gapyeong in Gyeonggi Province, with 39 acts on the bill — among them the drummer Nate Smith, back after seventeen years, and the pianist Tigran Hamasyan. France is this year’s focus country, marking 140 years of relations. Primary-school children get in free, and you can bring your dog.",
+        "source": {
+          "name": "Money Today",
+          "url": "https://www.mt.co.kr/industry/2026/08/25/2026082514324723696"
+        },
+        "word": {
+          "ko": "섬",
+          "en": "island"
+        }
+      },
+      {
+        "kind": "evergreen",
+        "topic": "travel",
+        "headline": "The subway rules that catch people out",
+        "body": "Transfers between lines are free as long as you do not tap out through a gate, so plan the whole route inside the system rather than above it. A single-journey ticket costs a 500-won deposit on top of the fare, which you get back by feeding the card into a refund machine before you leave the station. Lines are colour-coded, most stations have lockers, and the Shinbundang Line charges extra for part of its route.",
+        "source": {
+          "name": "Korea Tourism Organization",
+          "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=140660"
+        },
+        "word": {
+          "ko": "지하철",
+          "en": "subway"
+        }
+      }
+    ]
+  },
+  {
+    "date": "2026-10-09",
+    "items": [
+      {
+        "kind": "ahead",
+        "topic": "culture",
+        "headline": "Hangul Day: the king who made the alphabet gets a party at his tomb",
+        "body": "Today and tomorrow the royal tomb of King Sejong in Yeoju hosts a free Hangul Day festival for the 580th anniversary of the alphabet’s proclamation, with a “five senses Hangul playground” of six hands-on activities — brush calligraphy, type design, paper lanterns — two calligraphy exhibitions and small outdoor concerts. Children’s shows run at 11 am, 2 pm and 4 pm today. Everything is free and seating is first come, first served.",
+        "source": {
+          "name": "Kyeongin Ilbo",
+          "url": "https://www.kyeongin.com/article/1771103"
+        },
+        "word": {
+          "ko": "임금",
+          "en": "king"
+        }
+      },
+      {
+        "kind": "evergreen",
+        "topic": "language",
+        "headline": "Eight more Korean words are now in the Oxford English Dictionary",
+        "body": "In January the Oxford English Dictionary took in ramyeon, haenyeo, seonbae, bingsu, jjimjilbang, ajumma, officetel and Korean barbecue — the second year running that it has added Korean words, after dalgona, maknae and tteokbokki the year before. Useful to know that some of the Korean you are learning no longer needs translating.",
+        "source": {
+          "name": "Korea.net",
+          "url": "https://www.korea.net/NewsFocus/Culture/view?articleId=285295"
+        },
+        "word": {
+          "ko": "사전",
+          "en": "dictionary"
+        }
+      }
+    ]
+  },
+  {
+    "date": "2026-10-10",
+    "items": [
+      {
+        "kind": "ahead",
+        "topic": "drama",
+        "headline": "A pickpocket turns spy in the weekend drama starting today",
+        "body": "“100 Days of Deception” begins today and airs Saturdays and Sundays over sixteen episodes, with Kim You Jung as a gifted pickpocket who ends up spying for the independence army under Japanese rule, alongside Park Jin Young and Kim Hyun Joo. If you have been watching period dramas for the silk and the swords, this one is set much closer to now.",
+        "source": {
+          "name": "What’s on Netflix",
+          "url": "https://www.whats-on-netflix.com/news/k-dramas/netflix-october-2026-k-drama-release-dates/"
+        },
+        "word": {
+          "ko": "비밀",
+          "en": "secret"
+        }
+      },
+      {
+        "kind": "evergreen",
+        "topic": "food",
+        "headline": "Next month the whole country makes kimchi at once",
+        "body": "Kimjang is the November ritual of making winter kimchi together: cabbage soaked in salt water, then a paste of chilli flakes, garlic, ginger and radish worked in by hand, leaf by leaf. An extended family may put up around fifty heads of cabbage, enough for three or four months, and boxes of it go out to relatives, neighbours and colleagues. UNESCO listed the practice in 2013 — not the recipe, the sharing.",
+        "source": {
+          "name": "Korea.net",
+          "url": "https://www.korea.net/NewsFocus/Opinion/view?articleId=194453"
+        },
+        "word": {
+          "ko": "김치",
+          "en": "kimchi"
+        }
+      }
+    ]
+  },
+  {
+    "date": "2026-10-11",
+    "items": [
+      {
+        "kind": "ahead",
+        "topic": "festival",
+        "headline": "Last day at the palaces — and every programme in the festival is free",
+        "body": "The autumn K-Royal Culture Festival closes tonight after five days across Gyeongbokgung, Changdeokgung, Deoksugung, Changgyeonggung and Jongmyo Shrine, with programmes such as an evening hanbok stroll at Gyeongbokgung and a reconstruction of royal daily life at Changgyeonggung. All of it is free of charge. If you miss it, the palaces themselves are open the rest of the year.",
+        "source": {
+          "name": "Korea Heritage Agency",
+          "url": "https://www.kh.or.kr/fest"
+        },
+        "word": {
+          "ko": "가을",
+          "en": "autumn"
+        }
+      },
+      {
+        "kind": "evergreen",
+        "topic": "shopping",
+        "headline": "On a Sunday a market can be half shut — except the food",
+        "body": "Gwangjang Market in Jongno was the first permanent market in Korea, and it still sells silk, hanbok fabric, bedding, handicrafts and dried goods from 9 am to 6 pm. It closes on Sundays — but the food street does not, and that part runs until about 11 pm every day. Its name means roughly “gather from afar and keep it all together”.",
+        "source": {
+          "name": "Korea Tourism Organization",
+          "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=106345"
+        },
+        "word": {
+          "ko": "시장",
+          "en": "market"
+        }
+      }
+    ]
   }
 ]

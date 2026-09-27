@@ -306,5 +306,71 @@
       "ko": "이 집 진짜 맛있지? — 인정",
       "en": "This place is really good, right? — Fair enough."
     }
+  },
+  {
+    "ko": "억텐",
+    "en": "Forced enthusiasm",
+    "register": "young",
+    "lit": "억지 텐션, \"forced tension\"",
+    "note": "The too-bright energy of someone performing excitement they do not feel — a variety-show host, a group chat, you at a work dinner. The honest opposite is 찐텐, real energy. Note that 텐션 in Korean means your energy level, not stress.",
+    "example": {
+      "ko": "그 리액션 완전 억텐이었어",
+      "en": "That reaction was totally forced."
+    }
+  },
+  {
+    "ko": "알잘딱깔센",
+    "en": "Just handle it well, no instructions needed",
+    "register": "young",
+    "lit": "알아서 잘 딱 깔끔하고 센스있게, \"on your own, well, neatly and with good sense\"",
+    "note": "Five words crushed into five syllables. Said half as praise for someone who needs no briefing, half as an unreasonable request. A boss who says this to you has told you nothing.",
+    "example": {
+      "ko": "알잘딱깔센으로 부탁해",
+      "en": "Just take care of it nicely, you know how."
+    }
+  },
+  {
+    "ko": "별다줄",
+    "en": "They shorten absolutely everything",
+    "register": "casual",
+    "lit": "별걸 다 줄인다, \"they abbreviate even the odd things\"",
+    "note": "The complaint about all the slang on this list, and itself an abbreviation — which is the joke. Handy for a learner: say it and Koreans will laugh and then explain the word you missed.",
+    "example": {
+      "ko": "별다줄이네, 그게 무슨 뜻이야?",
+      "en": "You shorten everything — what does that even mean?"
+    }
+  },
+  {
+    "ko": "민초",
+    "en": "Mint chocolate",
+    "register": "casual",
+    "lit": "민트 초코의 줄임말",
+    "note": "Korea argues about mint chocolate ice cream the way other countries argue about pineapple on pizza. 민초단 is the tribe that loves it; 반민초단 the resistance. A safe, cheerful thing to have an opinion about.",
+    "example": {
+      "ko": "나 민초단이야",
+      "en": "I am on team mint choc."
+    }
+  },
+  {
+    "ko": "뇌절",
+    "en": "Running a joke into the ground",
+    "register": "young",
+    "lit": "brain + a severing, from a manga move done one time too many",
+    "note": "The fourth time someone repeats the same gag. Used as a verb — 뇌절하다 — or thrown at someone mid-repetition. Mildly cutting, so keep it among friends.",
+    "example": {
+      "ko": "그 개그 이제 뇌절이야",
+      "en": "That joke is worn out now."
+    }
+  },
+  {
+    "ko": "오히려 좋아",
+    "en": "Actually, this is better",
+    "register": "casual",
+    "lit": "\"rather, it is good\"",
+    "note": "Said when something goes wrong and you decide out loud that it worked out. Plain words, so it is safe with anyone; the slang is in the timing, right after the bad news.",
+    "example": {
+      "ko": "약속 취소됐네. 오히려 좋아",
+      "en": "The plan fell through. Honestly, better this way."
+    }
   }
 ]
