@@ -372,5 +372,71 @@
       "ko": "약속 취소됐네. 오히려 좋아",
       "en": "The plan fell through. Honestly, better this way."
     }
+  },
+  {
+    "ko": "너 T야?",
+    "en": "Are you a robot or what?",
+    "register": "casual",
+    "lit": "\"are you a T?\" — the Thinking type in MBTI",
+    "note": "Thrown at someone who answers a sad story with practical advice instead of sympathy. Koreans talk about MBTI types constantly, and T versus F (Feeling) is the classic split. Teasing, not an insult — but only with friends.",
+    "example": {
+      "ko": "나 감기 걸렸어 — 병원 가. — 너 T야?",
+      "en": "I caught a cold. — Go see a doctor. — Wow, so cold."
+    }
+  },
+  {
+    "ko": "내돈내산",
+    "en": "I paid for it myself",
+    "register": "casual",
+    "lit": "내 돈으로 내가 산, \"bought by me with my money\"",
+    "note": "Stamped on reviews and posts to promise they are not sponsored. When you are hunting for honest restaurant or skincare reviews on Naver or Instagram, this is the tag to search for.",
+    "example": {
+      "ko": "내돈내산 후기예요",
+      "en": "This is an unsponsored review — I bought it myself."
+    }
+  },
+  {
+    "ko": "꾸안꾸",
+    "en": "Effortlessly put-together",
+    "register": "casual",
+    "lit": "꾸민 듯 안 꾸민 듯, \"dressed up, or maybe not\"",
+    "note": "The look that took forty minutes to make appear accidental. Used for clothes, make-up and even cafe interiors. A compliment — say it about someone’s outfit and they will be pleased.",
+    "example": {
+      "ko": "오늘 완전 꾸안꾸네",
+      "en": "You look effortlessly good today."
+    }
+  },
+  {
+    "ko": "맛도리",
+    "en": "Something delicious",
+    "register": "young",
+    "lit": "맛 (taste) + a cute ending",
+    "note": "A playful, cutesy way to call food tasty, often as a noun: “this is a 맛도리”. Teens and twenties use it in food vlogs and comments; it sounds childish coming from a manager.",
+    "example": {
+      "ko": "이 떡볶이 완전 맛도리",
+      "en": "This tteokbokki is so good."
+    }
+  },
+  {
+    "ko": "짜치다",
+    "en": "Cheap, lame, cringe",
+    "register": "casual",
+    "lit": "origin debated; it simply means shabby or second-rate",
+    "note": "For anything that feels low-effort or embarrassing — a cheap-looking set in a drama, a tacky gift, a desperate excuse. Not crude, but it is a put-down, so be careful who it lands on.",
+    "example": {
+      "ko": "그 드라마 CG 좀 짜치더라",
+      "en": "The CGI in that drama was kind of cheap."
+    }
+  },
+  {
+    "ko": "할매니얼",
+    "en": "Grandma-core taste",
+    "register": "young",
+    "lit": "할머니 (grandma) + millennial",
+    "note": "Young people loving old-fashioned things: injeolmi, sweet potato, black sesame, red-bean desserts, floral patterns. You will see it on cafe menus advertising “할매니얼 디저트”.",
+    "example": {
+      "ko": "나 입맛이 완전 할매니얼이야",
+      "en": "My taste in food is totally grandma."
+    }
   }
 ]

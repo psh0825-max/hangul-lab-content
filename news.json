@@ -936,5 +936,236 @@
         }
       }
     ]
+  },
+  {
+    "date": "2026-10-12",
+    "items": [
+      {
+        "kind": "ahead",
+        "topic": "weather",
+        "headline": "Seoraksan is a week away from its best colour",
+        "body": "The first autumn leaves were recorded on Seoraksan on 28 September, and the Korea Forest Service’s forecast puts the peak there around 20 October, with Sokrisan following on 28 October, Naejangsan on 4 November and Hallasan on 6 November. Odaesan is expected to turn at about the same time as Seorak. If you want red mountains rather than green ones, the next fortnight is the window in the north-east.",
+        "source": {
+          "name": "Wikitree",
+          "url": "https://www.wikitree.co.kr/articles/1164491"
+        },
+        "word": {
+          "ko": "산",
+          "en": "mountain"
+        }
+      },
+      {
+        "kind": "evergreen",
+        "topic": "food",
+        "headline": "The price on the menu is the price you pay",
+        "body": "Since 2013 Korean law has required restaurant menu prices to include tax and any service charge, so the number you see is the number on the bill. Tipping is not expected — wages are paid by the employer — though handing a tip to someone is not illegal. A tip jar or a kiosk that asks for one is unusual enough to cause complaints.",
+        "source": {
+          "name": "The Korea Times",
+          "url": "https://www.koreatimes.co.kr/southkorea/society/20250807/explainer-why-tipping-culture-remains-controversial-in-korea"
+        },
+        "word": {
+          "ko": "계산",
+          "en": "paying the bill"
+        }
+      }
+    ]
+  },
+  {
+    "date": "2026-10-13",
+    "items": [
+      {
+        "kind": "ahead",
+        "topic": "festival",
+        "headline": "Jinju’s lanterns stay on the river until Sunday",
+        "body": "The Namgang Yudeung Festival in Jinju runs until 18 October, with lanterns floating on the Namgang River by Jinju Fortress under this year’s theme, “carrying peace on the river of history”. The culture ministry has named it one of its world festivals for 2026–2028, and this year’s drone shows use more than 950 drones. The 75th Gaecheon Art Festival runs alongside it and also ends on Sunday.",
+        "source": {
+          "name": "Daum News",
+          "url": "https://v.daum.net/v/20260730120506711"
+        },
+        "word": {
+          "ko": "강",
+          "en": "river"
+        }
+      },
+      {
+        "kind": "evergreen",
+        "topic": "food",
+        "headline": "Birthday breakfast is seaweed soup, and it is for your mother",
+        "body": "Miyeokguk — brown seaweed simmered with beef and seasoned with soy sauce — is the first meal served to a woman after she gives birth. That is why Koreans eat it on their birthdays: a bowl of the same soup is a way of remembering the person who went through the birth. If a Korean friend makes you seaweed soup on your birthday, that is the gesture.",
+        "source": {
+          "name": "Korea.net",
+          "url": "https://www.korea.net/NewsFocus/Culture/view?articleId=144337"
+        },
+        "word": {
+          "ko": "생일",
+          "en": "birthday"
+        }
+      }
+    ]
+  },
+  {
+    "date": "2026-10-14",
+    "items": [
+      {
+        "kind": "ahead",
+        "topic": "culture",
+        "headline": "Autumn baseball starts tonight with the wild-card game",
+        "body": "The KBO postseason opens today with the wild-card round, played at the fourth-placed team’s ground: one win or even a draw sends the fourth-placed side through, while the fifth-placed side has to win twice. KT Wiz finished top and wait in the Korean Series. This year there are no rain-shortened games — a game interrupted by rain is suspended and finished later.",
+        "source": {
+          "name": "Money Today",
+          "url": "https://www.mt.co.kr/sports/2026/10/07/2026100718381389779"
+        },
+        "word": {
+          "ko": "경기",
+          "en": "game, match"
+        }
+      },
+      {
+        "kind": "evergreen",
+        "topic": "culture",
+        "headline": "Why Korean chopsticks are metal, flat and heavy",
+        "body": "Most of East Asia eats with wooden or bamboo chopsticks, but Korea uses flat metal ones, usually stainless steel. They are heavier and more slippery than you are used to, but they stand up to hot soups and red marinades without staining. They come with a metal spoon, and the pair has its own name, sujeo — a reminder that much of Asia does not put a spoon on the table at all.",
+        "source": {
+          "name": "Korea.net",
+          "url": "https://www.korea.net/NewsFocus/Culture/view?articleId=193912"
+        },
+        "word": {
+          "ko": "숟가락",
+          "en": "spoon"
+        }
+      }
+    ]
+  },
+  {
+    "date": "2026-10-15",
+    "items": [
+      {
+        "kind": "ahead",
+        "topic": "food",
+        "headline": "Chuncheon is cooking its two famous dishes cheaply until Sunday",
+        "body": "The Chuncheon Makguksu and Dakgalbi Festival runs from 14 to 18 October, with twelve dakgalbi restaurants and eight makguksu restaurants from the city setting up together. Dakgalbi, spicy chicken stir-fried on an iron pan, is 9,900 won a serving; makguksu, cold buckwheat noodles, is 6,900 won.",
+        "source": {
+          "name": "ELLE Korea",
+          "url": "https://www.elle.co.kr/article/1909491"
+        },
+        "word": {
+          "ko": "닭",
+          "en": "chicken"
+        }
+      },
+      {
+        "kind": "evergreen",
+        "topic": "culture",
+        "headline": "Korean rubbish goes in three piles, and chicken bones are not food",
+        "body": "Households in Korea split waste into general rubbish, food waste and recyclables, and put it out only during set collection hours. The rules that catch newcomers: chicken bones go in general waste, not food waste; labels come off plastic bottles; and glass bottles are separated from their caps. If you are staying in an apartment, ask the building manager how your block does it.",
+        "source": {
+          "name": "The Korea Times",
+          "url": "https://www.koreatimes.co.kr/southkorea/globalcommunity/20260626/how-koreas-strict-waste-management-confuse-new-foreign-residents"
+        },
+        "word": {
+          "ko": "쓰레기",
+          "en": "rubbish, trash"
+        }
+      }
+    ]
+  },
+  {
+    "date": "2026-10-16",
+    "items": [
+      {
+        "kind": "ahead",
+        "topic": "festival",
+        "headline": "A seedless persimmon gets its own three-day festival",
+        "body": "The Cheongdo Bansi Festival runs from today until Sunday around the Cheongdo outdoor theatre in North Gyeongsang, celebrating bansi, the county’s flat, seedless persimmon. It shares the weekend with the Cheongdo World Comedy Art Festival, so expect acrobats, magic and circus acts between the fruit stalls, and the singer K.Will on Saturday. Free shuttle buses run every twenty minutes, including from Cheongdo Station.",
+        "source": {
+          "name": "Kyongbuk Maeil",
+          "url": "https://kbmaeil.com/article/20261003500065"
+        },
+        "word": {
+          "ko": "감",
+          "en": "persimmon"
+        }
+      },
+      {
+        "kind": "evergreen",
+        "topic": "culture",
+        "headline": "At the jjimjilbang, the egg and the rice punch are the ritual",
+        "body": "The classic jjimjilbang snack is a roasted egg with a cup of sikhye, a cold sweet rice drink, bought at the snack bar inside. You do not need cash: the locker key on your wrist runs a tab for snacks and massage chairs, and you settle it at the counter when you leave. Start in the cooler 30–40°C rooms and keep to about twenty minutes in anything above 60°C.",
+        "source": {
+          "name": "Korea Tourism Organization",
+          "url": "https://english.visitkorea.or.kr/svc/sp/HallyuNew/contentsView.do?dataSetId=76&vcontsId=217505"
+        },
+        "word": {
+          "ko": "달걀",
+          "en": "egg"
+        }
+      }
+    ]
+  },
+  {
+    "date": "2026-10-17",
+    "items": [
+      {
+        "kind": "ahead",
+        "topic": "music",
+        "headline": "Grand Mint Festival fills Olympic Park this weekend",
+        "body": "Grand Mint Festival takes over Olympic Park today and tomorrow across four stages. Among the first names announced, Saturday has Jang Ki-ha, Peppertones and Lee Seung-yoon, and Sunday has CNBLUE, Roy Kim and Yunha. Tickets have been sold through NOL, YES24 and Naver.",
+        "source": {
+          "name": "Sports Kyunghyang",
+          "url": "https://sports.khan.co.kr/article/202607161907003"
+        },
+        "word": {
+          "ko": "음악",
+          "en": "music"
+        }
+      },
+      {
+        "kind": "ahead",
+        "topic": "festival",
+        "headline": "Haneul Park’s silver-grass festival opens today",
+        "body": "The 25th Seoul Eulalia Festival runs from today to 23 October on Haneul Park in World Cup Park, open 10 am to 9 pm, when the hilltop is covered in silver grass. From World Cup Stadium or Mapo-gu Office station on Line 6 it is about a 40-minute walk, or you can take the small electric shuttle from the Nanjicheon Park car park. The city asks visitors to come by public transport.",
+        "source": {
+          "name": "Seoul Metropolitan Government",
+          "url": "https://news.seoul.go.kr/env/?p=570795"
+        },
+        "word": {
+          "ko": "하늘",
+          "en": "sky"
+        }
+      }
+    ]
+  },
+  {
+    "date": "2026-10-18",
+    "items": [
+      {
+        "kind": "ahead",
+        "topic": "travel",
+        "headline": "Yoga on a closed bridge over the Han this afternoon",
+        "body": "Jamsugyo Bridge is closed to cars again today for the Sunday festival on the bridge and Banpo Hangang Park, 2 pm to 10 pm, and this week’s programme is yoga, stretching and meditation. Only one more Sunday remains this autumn, and it is the last season before the bridge is turned over to pedestrians for good in the second half of 2027.",
+        "source": {
+          "name": "The Korea Times",
+          "url": "https://koreatimes.co.kr/southkorea/20260825/seouls-bridge-festival-returns-for-eight-sundays-of-autumn-fun"
+        },
+        "word": {
+          "ko": "다리",
+          "en": "bridge"
+        }
+      },
+      {
+        "kind": "evergreen",
+        "topic": "shopping",
+        "headline": "Show your passport and the tax comes off at the till",
+        "body": "Visitors staying under six months can reclaim tax on purchases of 15,000 won or more at tax-refund shops. Many shops deduct it on the spot if you show your passport, for single purchases under 1 million won and up to 5 million won across the trip; otherwise you keep the voucher and claim at the airport or a downtown kiosk. Goods have to leave the country unused within three months.",
+        "source": {
+          "name": "Korea Tourism Organization",
+          "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=489&vcontsId=248765"
+        },
+        "word": {
+          "ko": "여권",
+          "en": "passport"
+        }
+      }
+    ]
   }
 ]
