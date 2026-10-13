@@ -1167,5 +1167,236 @@
         }
       }
     ]
+  },
+  {
+    "date": "2026-10-19",
+    "items": [
+      {
+        "kind": "ahead",
+        "topic": "weather",
+        "headline": "Seoraksan turns today, and the colour starts moving south",
+        "body": "The Korea Forest Service’s 2026 foliage peak map puts Seoraksan at its best today and Odaesan tomorrow, with the whole central region peaking between now and 1 November. Bukhansan above Seoul is due around 1 November and Naejangsan in the south on the 4th. Weekday walks are the quiet ones — the mountain buses fill up on Saturdays.",
+        "source": {
+          "name": "Wikitree",
+          "url": "https://www.wikitree.co.kr/articles/1164491"
+        },
+        "word": {
+          "ko": "나무",
+          "en": "tree"
+        }
+      },
+      {
+        "kind": "evergreen",
+        "topic": "culture",
+        "headline": "You can book a night in a mountain temple",
+        "body": "Templestay puts visitors up overnight at Buddhist temples across the country, around 170 of them. Programmes range from the full experience — seated meditation, the formal bowl meal, tea with a monk, making prayer beads — to a rest stay with nothing scheduled at all. Day visits are available too, and the site has an English version you can book from.",
+        "source": {
+          "name": "Templestay",
+          "url": "https://eng.templestay.com/"
+        },
+        "word": {
+          "ko": "절",
+          "en": "temple"
+        }
+      }
+    ]
+  },
+  {
+    "date": "2026-10-20",
+    "items": [
+      {
+        "kind": "ahead",
+        "topic": "culture",
+        "headline": "Autumn baseball is on, and the deciding series is next month",
+        "body": "The KBO postseason opened on 14 October with the wild card game. The semi-playoff and playoff are best-of-five, and the Korean Series — best-of-seven — starts on 2 November, so this week’s games decide who reaches it. Korean crowds sing a different chant for every batter, which is half the reason to go.",
+        "source": {
+          "name": "The Korea Daily",
+          "url": "https://www.koreadaily.com/article/20261007000125238"
+        },
+        "word": {
+          "ko": "응원",
+          "en": "cheering"
+        }
+      },
+      {
+        "kind": "evergreen",
+        "topic": "travel",
+        "headline": "When the subway stops, the N buses keep going",
+        "body": "Seoul’s night buses carry an N for night plus two digits, and they run from midnight to about 5 am, every 30 to 50 minutes, on routes that cross the whole city. The city reckons riders save around 7,000 won a head against a late-night taxi, which is the real argument for waiting at the stop.",
+        "source": {
+          "name": "Seoul Metropolitan Government",
+          "url": "https://english.seoul.go.kr/travel-safely-around-city-even-night-seouls-owl-bus/"
+        },
+        "word": {
+          "ko": "버스",
+          "en": "bus"
+        }
+      }
+    ]
+  },
+  {
+    "date": "2026-10-21",
+    "items": [
+      {
+        "kind": "ahead",
+        "topic": "festival",
+        "headline": "The garden show at Seoul Forest closes next Tuesday",
+        "body": "The 2026 Seoul International Garden Show has been open since 1 May — 167 gardens over 90,000 square metres, the longest run the city has staged at 180 days — and it ends on 27 October. Entry is free, and the gardens spill out of Seoul Forest into the streets of Seongsu-dong.",
+        "source": {
+          "name": "Seoul Metropolitan Government",
+          "url": "https://mediahub.seoul.go.kr/archives/2018041"
+        },
+        "word": {
+          "ko": "꽃",
+          "en": "flower"
+        }
+      },
+      {
+        "kind": "evergreen",
+        "topic": "food",
+        "headline": "The small dishes are free, and so are the refills",
+        "body": "Every Korean meal arrives with banchan, the little side dishes set in the middle of the table, and in most restaurants you can ask for more at no charge — increasingly from a self-service bar by the wall. Ingredient prices have restaurant owners arguing about whether free refills can last, so enjoy them while the argument runs.",
+        "source": {
+          "name": "The Korea Times",
+          "url": "https://www.koreatimes.co.kr/lifestyle/travel-food/20260207/inflation-hygiene-woes-hit-korean-banchan-culture"
+        },
+        "word": {
+          "ko": "반찬",
+          "en": "side dishes"
+        }
+      }
+    ]
+  },
+  {
+    "date": "2026-10-22",
+    "items": [
+      {
+        "kind": "ahead",
+        "topic": "drama",
+        "headline": "Two Netflix dramas are still dropping episodes this week",
+        "body": "\"Doctor X\", twelve episodes about a surgeon who will not follow hospital rules, and \"100 Days of Deception\", sixteen episodes about a pickpocket sent undercover during the occupation, both started in early October and are still releasing weekly. Starting one now means you catch up in time for the finale rather than after it.",
+        "source": {
+          "name": "What’s on Netflix",
+          "url": "https://www.whats-on-netflix.com/news/k-dramas/netflix-october-2026-k-drama-release-dates/"
+        },
+        "word": {
+          "ko": "이야기",
+          "en": "story"
+        }
+      },
+      {
+        "kind": "evergreen",
+        "topic": "culture",
+        "headline": "Ill at night? Call 1339 before you go looking for a hospital",
+        "body": "1339 is a 24-hour medical line that will tell you whether your symptoms need an emergency room, with an interpreter brought onto the call; you can reach it through KakaoTalk instead of paying for the call. Districts also designate late-night pharmacies that stay open to midnight or beyond, and convenience stores sell basic fever, cold and stomach medicine at any hour.",
+        "source": {
+          "name": "The Korea Times",
+          "url": "https://www.koreatimes.co.kr/lifestyle/travel-food/20260314/sick-in-korea-after-hours-heres-what-visitors-need-to-know"
+        },
+        "word": {
+          "ko": "약",
+          "en": "medicine"
+        }
+      }
+    ]
+  },
+  {
+    "date": "2026-10-23",
+    "items": [
+      {
+        "kind": "ahead",
+        "topic": "food",
+        "headline": "Food trucks compete by the river at Ttukseom from today",
+        "body": "The Road Chef Hangang, a street-food contest, runs today to Sunday at the pool in Ttukseom Hangang Park. It is part of the autumn Hangang Festival, which has been running since 17 October across seven riverside parks and finishes on the 25th.",
+        "source": {
+          "name": "Seoul Metropolitan Government",
+          "url": "https://mediahub.seoul.go.kr/archives/2019582"
+        },
+        "word": {
+          "ko": "음식",
+          "en": "food"
+        }
+      },
+      {
+        "kind": "evergreen",
+        "topic": "travel",
+        "headline": "Four numbers worth keeping in your phone",
+        "body": "112 is police, 119 is fire and ambulance, 1339 is medical advice, and 1330 is the travel hotline — eight languages, and it will interpret for you on a three-way call with a taxi driver or a shop. Large hospitals also run international health care centres with English-speaking staff, generally on weekdays only.",
+        "source": {
+          "name": "Korea Tourism Organization",
+          "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=140042"
+        },
+        "word": {
+          "ko": "전화",
+          "en": "telephone"
+        }
+      }
+    ]
+  },
+  {
+    "date": "2026-10-24",
+    "items": [
+      {
+        "kind": "ahead",
+        "topic": "culture",
+        "headline": "The city puts its library back out on the square today",
+        "body": "Seoul’s outdoor libraries run Friday to Sunday through the autumn at three places — Seoul Plaza, Gwanghwamun Square and the Cheonggyecheon stream — with deckchairs, borrowed books and small performances. Hours shift between 11 am to 6 pm and 4 pm to 10 pm depending on the weather, so check before heading over in the evening.",
+        "source": {
+          "name": "Seoul Metropolitan Government",
+          "url": "https://mediahub.seoul.go.kr/archives/2017887"
+        },
+        "word": {
+          "ko": "광장",
+          "en": "square"
+        }
+      },
+      {
+        "kind": "evergreen",
+        "topic": "travel",
+        "headline": "How to read a Korean address",
+        "body": "An address is a road name plus a building number. A daero has more than eight lanes, a ro seven or fewer, and a gil is a small street off one of them. Numbers run west to east and south to north, odd on the left and even on the right, so the number alone tells you roughly how far along you are. Old lot-number addresses still get delivered, and juso.go.kr converts between the two.",
+        "source": {
+          "name": "The Korea Herald",
+          "url": "https://www.koreaherald.com/article/3649043"
+        },
+        "word": {
+          "ko": "주소",
+          "en": "address"
+        }
+      }
+    ]
+  },
+  {
+    "date": "2026-10-25",
+    "items": [
+      {
+        "kind": "ahead",
+        "topic": "festival",
+        "headline": "The last car-free Sunday on Jamsugyo is today",
+        "body": "Jamsugyo Bridge shuts to traffic from noon to midnight for the eighth and final Sunday of the autumn programme, with the festival itself running 2 pm to 10 pm on the bridge and in Banpo Hangang Park. The city plans to hand the bridge to pedestrians for good in the second half of 2027, so this is the last autumn of the arrangement.",
+        "source": {
+          "name": "The Korea Times",
+          "url": "https://koreatimes.co.kr/southkorea/20260825/seouls-bridge-festival-returns-for-eight-sundays-of-autumn-fun"
+        },
+        "word": {
+          "ko": "저녁",
+          "en": "evening"
+        }
+      },
+      {
+        "kind": "evergreen",
+        "topic": "language",
+        "headline": "The government runs a free Korean school online",
+        "body": "The King Sejong Institute gives its course material away on its Nuri site — videos, textbooks, grammar guides, even comics about Korean food — with a short placement test to find your level. Free online classes open for some countries each term, and there are vocabulary apps and a YouTube channel alongside. Sign up from a computer; the registration does not work well on a phone.",
+        "source": {
+          "name": "Korea.net",
+          "url": "https://www.korea.net/NewsFocus/HonoraryReporters/view?articleId=184158"
+        },
+        "word": {
+          "ko": "수업",
+          "en": "class"
+        }
+      }
+    ]
   }
 ]

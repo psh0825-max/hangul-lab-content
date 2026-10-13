@@ -438,5 +438,71 @@
       "ko": "나 입맛이 완전 할매니얼이야",
       "en": "My taste in food is totally grandma."
     }
+  },
+  {
+    "ko": "썸",
+    "en": "A something — the stage before dating",
+    "register": "casual",
+    "lit": "from English \"something\"",
+    "note": "Two people clearly like each other but nobody has said so yet. 썸 타다 is to be in that stage; endless drama plots live here.",
+    "example": {
+      "ko": "우리 썸 타는 중이야",
+      "en": "We’re in that in-between stage."
+    }
+  },
+  {
+    "ko": "혼밥",
+    "en": "Eating alone",
+    "register": "casual",
+    "lit": "혼자 + 밥 (alone + meal)",
+    "note": "Once slightly shameful, now completely normal — restaurants have single seats for it. 혼술 is the drinking version.",
+    "example": {
+      "ko": "오늘 점심은 혼밥했어",
+      "en": "I had lunch on my own today."
+    }
+  },
+  {
+    "ko": "밀당",
+    "en": "Playing hot and cold",
+    "register": "casual",
+    "lit": "밀기 + 당기기 (pushing and pulling)",
+    "note": "Showing interest, then pulling back to keep the other person guessing. Usually said with mild disapproval.",
+    "example": {
+      "ko": "밀당 좀 그만해",
+      "en": "Stop playing hot and cold."
+    }
+  },
+  {
+    "ko": "멍때리다",
+    "en": "To zone out",
+    "register": "casual",
+    "lit": "멍 (blank) + 때리다 (to hit)",
+    "note": "Staring into space doing absolutely nothing. Treated as a skill here — Seoul holds a competition for it by the river.",
+    "example": {
+      "ko": "한강에서 멍때렸어",
+      "en": "I just sat by the river and zoned out."
+    }
+  },
+  {
+    "ko": "가성비",
+    "en": "Value for money",
+    "register": "casual",
+    "lit": "가격 대비 성능 (performance against price)",
+    "note": "The standard compliment for a cheap place that is good. 가심비 is the version where it only has to make you happy.",
+    "example": {
+      "ko": "이 집 가성비 좋아",
+      "en": "This place is good value."
+    }
+  },
+  {
+    "ko": "밥약",
+    "en": "A meal you have arranged with someone",
+    "register": "young",
+    "lit": "밥 + 약속 (meal + appointment)",
+    "note": "Campus slang, usually a senior student taking a junior out to eat. 술약 is the same thing with drinking.",
+    "example": {
+      "ko": "선배랑 밥약 있어",
+      "en": "I’m meeting an older student for a meal."
+    }
   }
 ]
