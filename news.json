@@ -1398,5 +1398,236 @@
         }
       }
     ]
+  },
+  {
+    "date": "2026-10-26",
+    "items": [
+      {
+        "kind": "ahead",
+        "topic": "festival",
+        "headline": "Hampyeong fills a park with chrysanthemums until 8 November",
+        "body": "The National Chrysanthemum Festival in Hampyeong, South Jeolla, opened on 23 October at Hampyeong Expo Park and runs for 17 days. This year’s theme is a garden of myths, built from giant flower sculptures — the county breeds several of its own chrysanthemum varieties for them.",
+        "source": {
+          "name": "Wikitree",
+          "url": "https://www.wikitree.co.kr/articles/1166614"
+        },
+        "word": {
+          "ko": "국화",
+          "en": "chrysanthemum"
+        }
+      },
+      {
+        "kind": "evergreen",
+        "topic": "culture",
+        "headline": "At a Korean table, the youngest pours",
+        "body": "At a work dinner the younger people pour for the older ones, starting with the most senior, holding the bottle with both hands or with the left hand resting on the right arm. Take a glass from a senior with both hands and keep yours a little lower when you clink. If you do not drink, accept the first glass and touch it to your lips — that is polite enough.",
+        "source": {
+          "name": "The Korea Herald",
+          "url": "https://www.koreaherald.com/article/3281585"
+        },
+        "word": {
+          "ko": "술",
+          "en": "alcohol, a drink"
+        }
+      }
+    ]
+  },
+  {
+    "date": "2026-10-27",
+    "items": [
+      {
+        "kind": "ahead",
+        "topic": "weather",
+        "headline": "The leaves around Seoul are at their best from now",
+        "body": "The 2026 foliage map from the Korea Tourism Organization and the Korea National Arboretum puts the peak for the capital region and Gangwon in late October, with the Gyeongsang and Jeolla provinces following in early to mid November. If you are in Seoul this week, you do not need to travel far for the colour.",
+        "source": {
+          "name": "Financial News",
+          "url": "https://www.fnnews.com/news/202610080943468392"
+        },
+        "word": {
+          "ko": "잎",
+          "en": "leaf"
+        }
+      },
+      {
+        "kind": "evergreen",
+        "topic": "food",
+        "headline": "Wait for the oldest person to start eating",
+        "body": "Starting your meal before the older people at the table is considered rude. Spoons and chopsticks are often kept in a box or drawer at the table, and whoever reaches in first sets them out for everyone, not just themselves — the same goes for pouring the water. Stews often come in one big pot that the whole table shares.",
+        "source": {
+          "name": "The Korea Herald",
+          "url": "https://www.koreaherald.com/article/3166710"
+        },
+        "word": {
+          "ko": "어른",
+          "en": "an elder, an adult"
+        }
+      }
+    ]
+  },
+  {
+    "date": "2026-10-28",
+    "items": [
+      {
+        "kind": "ahead",
+        "topic": "drama",
+        "headline": "Lee Chang-dong’s new film reaches Netflix a week on Friday",
+        "body": "\"Possible Love\", the director’s first feature since \"Burning\", streams worldwide from 6 November. Jeon Do-yeon, Sul Kyung-gu, Zo In-sung and Cho Yeo-jeong play two married couples whose lives cross when one of them sets out to make a documentary about the other. It is Korea’s entry for the international feature Oscar.",
+        "source": {
+          "name": "What’s on Netflix",
+          "url": "https://www.whats-on-netflix.com/news/k-dramas/k-dramas-coming-to-netflix-november-2026/"
+        },
+        "word": {
+          "ko": "사랑",
+          "en": "love"
+        }
+      },
+      {
+        "kind": "evergreen",
+        "topic": "culture",
+        "headline": "Shoes come off at the door",
+        "body": "In Korea shoes come off at the entrance to a home, and at restaurants with floor seating too. The habit comes from a floor-centred life: people traditionally sat and slept on the floor, and many houses had no chairs, sofas or beds. Wear socks you are happy to show.",
+        "source": {
+          "name": "The Korea Times",
+          "url": "https://www.koreatimes.co.kr/www/nation/2024/06/177_377683.html"
+        },
+        "word": {
+          "ko": "신발",
+          "en": "shoes"
+        }
+      }
+    ]
+  },
+  {
+    "date": "2026-10-29",
+    "items": [
+      {
+        "kind": "ahead",
+        "topic": "travel",
+        "headline": "A picnic on Namsan this Friday and Saturday evening",
+        "body": "The Namsan Night Festival runs Namsan Campnic at Baekbeom Square on Friday and Saturday evenings, 5 pm to 10 pm, with 100 spots a night for up to four people each. Spots are booked in advance on the festival site with a 10,000-won deposit that is refunded after you turn up. The festival carries on at weekends until 14 November.",
+        "source": {
+          "name": "Seoul Metropolitan Government",
+          "url": "https://mediahub.seoul.go.kr/archives/2019615"
+        },
+        "word": {
+          "ko": "밤",
+          "en": "night"
+        }
+      },
+      {
+        "kind": "evergreen",
+        "topic": "food",
+        "headline": "When it turns cold, the fish-shaped bread comes out",
+        "body": "Bungeoppang, a fish-shaped pastry usually filled with red bean or custard, appears at street stalls and food trucks as soon as the weather turns. Stalls come and go, so Koreans track them on crowdsourced maps in the Karrot neighbourhood app, and newer stalls sell cheese, pizza and even kimchi fillings.",
+        "source": {
+          "name": "Ministry of Culture, Sports and Tourism",
+          "url": "https://www.mcst.go.kr/english/policy/kocis/newsView.jsp?pSeq=303"
+        },
+        "word": {
+          "ko": "빵",
+          "en": "bread"
+        }
+      }
+    ]
+  },
+  {
+    "date": "2026-10-30",
+    "items": [
+      {
+        "kind": "ahead",
+        "topic": "food",
+        "headline": "Busan catches mackerel by hand on Songdo Beach from today",
+        "body": "The Busan Mackerel Festival runs today to Sunday, 10 am to 9 pm, at Songdo Beach in Seo-gu, and entry is free. You can try catching a mackerel with your bare hands, watch a surprise auction, tour the city’s main fish market, and eat your way through a mackerel food market.",
+        "source": {
+          "name": "Ministry of Culture, Sports and Tourism",
+          "url": "https://www.mcst.go.kr/site/s_culture/festival/festivalView.jsp?pSeq=11874"
+        },
+        "word": {
+          "ko": "고등어",
+          "en": "mackerel"
+        }
+      },
+      {
+        "kind": "evergreen",
+        "topic": "food",
+        "headline": "Late-night delivery now works on a foreign card",
+        "body": "Baemin, the biggest delivery app, accepts foreign-issued credit cards, Apple Pay, WeChat Pay and Alipay, and has had English, Chinese and Japanese menus since February. Orders from visitors more than quadrupled in the first half of this year, and fried chicken was what they ordered most.",
+        "source": {
+          "name": "The Korea Herald via Asia News Network",
+          "url": "https://asianews.network/?p=286966"
+        },
+        "word": {
+          "ko": "배달",
+          "en": "delivery"
+        }
+      }
+    ]
+  },
+  {
+    "date": "2026-10-31",
+    "items": [
+      {
+        "kind": "ahead",
+        "topic": "food",
+        "headline": "Miryang holds a spicy-food festival this weekend",
+        "body": "The Miryang Spicy Food Festival runs today and tomorrow, 11 am to 9 pm, along the Miryang riverside in South Gyeongsang, with free entry. There are spicy-food challenges and a Scoville scale to fill in, and Samyang, the maker of Buldak noodles, runs a booth.",
+        "source": {
+          "name": "Ministry of Culture, Sports and Tourism",
+          "url": "https://www.mcst.go.kr/site/s_culture/festival/festivalView.jsp?pSeq=13533"
+        },
+        "word": {
+          "ko": "고추",
+          "en": "chilli pepper"
+        }
+      },
+      {
+        "kind": "evergreen",
+        "topic": "travel",
+        "headline": "An hour on a Seoul city bike costs 1,000 won",
+        "body": "Ttareungyi, Seoul’s public bike service, has around 45,000 bikes at some 2,800 stations. An hour costs 1,000 won and two hours 2,000 won, and you can return the bike at any station. The riverside paths along the Han are the easy place to start.",
+        "source": {
+          "name": "Seoul Metropolitan Government",
+          "url": "https://english.seoul.go.kr/seouls-public-bike-ttareungi-hits-250-million-users-in-10-years-and-introduces-new-3-hour-pass/"
+        },
+        "word": {
+          "ko": "자전거",
+          "en": "bicycle"
+        }
+      }
+    ]
+  },
+  {
+    "date": "2026-11-01",
+    "items": [
+      {
+        "kind": "ahead",
+        "topic": "festival",
+        "headline": "Busan’s fireworks are next Saturday",
+        "body": "The 21st Busan Fireworks Festival is on Saturday 7 November over Gwangalli Beach and Gwangan Bridge, with events running from 1 pm to 8 pm. Some of the seating is paid, so check busanfireworks.com for tickets — and if you want to stay over, book now rather than next week.",
+        "source": {
+          "name": "Ministry of Culture, Sports and Tourism",
+          "url": "https://www.mcst.go.kr/site/s_culture/festival/festivalView.jsp?pSeq=11935"
+        },
+        "word": {
+          "ko": "불꽃",
+          "en": "fireworks, a flame"
+        }
+      },
+      {
+        "kind": "evergreen",
+        "topic": "food",
+        "headline": "Bunsik is the cheap snack food Korea runs on",
+        "body": "Bunsik literally means food made with flour, and it covers the snack-bar menu: tteokbokki, gimbap, sundae, fish-cake skewers and ramyeon. It spread after the Korean War, when rice was short and the government spent years pushing flour instead. A bunsikjip sign means a quick, cheap meal.",
+        "source": {
+          "name": "Korea JoongAng Daily",
+          "url": "https://www.koreajoongangdaily.com/lifestyle/think-english-bunsig-sewolui-heuleumedo-byeonhameobsneun-hangugindeului-soul-pudeu/11318855"
+        },
+        "word": {
+          "ko": "김밥",
+          "en": "gimbap, rice rolled in seaweed"
+        }
+      }
+    ]
   }
 ]

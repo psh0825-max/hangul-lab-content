@@ -504,5 +504,71 @@
       "ko": "선배랑 밥약 있어",
       "en": "I’m meeting an older student for a meal."
     }
+  },
+  {
+    "ko": "아보하",
+    "en": "A perfectly ordinary day",
+    "register": "young",
+    "lit": "아주 보통의 하루 (a very ordinary day)",
+    "note": "Picked by the Trend Korea 2025 book and now all over SNS captions. The happiness of a quiet, unremarkable day — the opposite of showing off.",
+    "example": {
+      "ko": "오늘은 아보하였다",
+      "en": "Today was just a nice, ordinary day."
+    }
+  },
+  {
+    "ko": "저속노화",
+    "en": "Slow ageing",
+    "register": "casual",
+    "lit": "저속 (low speed) + 노화 (ageing)",
+    "note": "The healthy-living trend of eating and sleeping so you age more slowly — think brown rice and fewer sugary drinks. You will see it on menus and in convenience-store aisles.",
+    "example": {
+      "ko": "요즘 저속노화 식단 하고 있어",
+      "en": "I’m on a slow-ageing diet these days."
+    }
+  },
+  {
+    "ko": "테토남",
+    "en": "A bold, take-charge kind of guy",
+    "register": "young",
+    "lit": "테스토스테론 + 남자 (testosterone + man)",
+    "note": "A 2025 personality label: direct and assertive. Its opposite is 에겐남, from estrogen, for a gentle, sensitive man; women get 테토녀 and 에겐녀. Mostly a joke, like MBTI.",
+    "example": {
+      "ko": "너 완전 테토남이다",
+      "en": "You’re such a take-charge guy."
+    }
+  },
+  {
+    "ko": "텍스트힙",
+    "en": "Reading is cool now",
+    "register": "young",
+    "lit": "text + hip",
+    "note": "Reading books, writing by hand and posting about it as a style statement. Bookshop visits and reading-club photos are the typical posts.",
+    "example": {
+      "ko": "요즘 추구미는 텍스트힙이야",
+      "en": "My vibe these days is the bookish look."
+    }
+  },
+  {
+    "ko": "영포티",
+    "en": "A forty-something acting young",
+    "register": "young",
+    "lit": "young + forty",
+    "note": "Started around 2015 as a compliment for youthful people in their forties, but now usually said mockingly. Many find it ageist, so do not call someone this to their face.",
+    "example": {
+      "ko": "그 패션 좀 영포티 같아",
+      "en": "That outfit looks a bit try-hard forty."
+    }
+  },
+  {
+    "ko": "육각형 인간",
+    "en": "Someone good at everything",
+    "register": "casual",
+    "lit": "육각형 (hexagon) + 인간 (person)",
+    "note": "From the six-sided stat charts in games: looks, money, job, personality, health and family all maxed out. Usually said with envy or as a joke.",
+    "example": {
+      "ko": "그 선배는 완전 육각형 인간이야",
+      "en": "That senior is good at literally everything."
+    }
   }
 ]
