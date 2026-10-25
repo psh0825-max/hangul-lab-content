@@ -1629,5 +1629,236 @@
         }
       }
     ]
+  },
+  {
+    "date": "2026-11-02",
+    "items": [
+      {
+        "kind": "ahead",
+        "topic": "weather",
+        "headline": "Naejangsan’s maples should peak this weekend",
+        "body": "Jeongeup, the city in Jeonbuk that looks after Naejangsan, expects the mountain’s famous autumn colour to peak on 7 and 8 November, and about 350,000 visitors over the season. The city has extra staff on traffic and parking until mid-November, but if you go at the weekend, set off early.",
+        "source": {
+          "name": "Wikitree",
+          "url": "https://www.wikitree.co.kr/articles/1166749"
+        },
+        "word": {
+          "ko": "색깔",
+          "en": "colour"
+        }
+      },
+      {
+        "kind": "evergreen",
+        "topic": "culture",
+        "headline": "Korean rooms are heated from the floor up",
+        "body": "Ondol, Korea’s underfloor heating, goes back more than 2,000 years: fire once warmed flat stones under the floor, and today hot-water pipes do the same job. Because the whole floor is warm, people sit, eat and sleep on it — which is also why shoes come off indoors.",
+        "source": {
+          "name": "Korea.net",
+          "url": "https://www.korea.net/NewsFocus/Culture/view?articleId=156191"
+        },
+        "word": {
+          "ko": "바닥",
+          "en": "floor"
+        }
+      }
+    ]
+  },
+  {
+    "date": "2026-11-03",
+    "items": [
+      {
+        "kind": "ahead",
+        "topic": "festival",
+        "headline": "Last week for the light sculptures on Danghyeoncheon",
+        "body": "The Nowon Moonlight Walk, a free night-time public art festival of lantern and light sculptures along the Danghyeoncheon stream in northern Seoul, ends on Sunday. It is on every evening from 5:30 pm to 10 pm, with volunteer guides explaining the works and local artists performing at the weekend.",
+        "source": {
+          "name": "Ministry of Culture, Sports and Tourism",
+          "url": "https://www.mcst.go.kr/site/s_culture/festival/festivalView.jsp?pSeq=13556"
+        },
+        "word": {
+          "ko": "달",
+          "en": "the moon"
+        }
+      },
+      {
+        "kind": "evergreen",
+        "topic": "culture",
+        "headline": "A jjimjilbang is where Koreans go to warm up",
+        "body": "A jjimjilbang is a Korean bathhouse built around heated floors and kiln-style sauna rooms. You take your shoes off at the entrance, change into the cotton pyjamas you are given, and can stay for up to 12 hours. The classic snacks are kiln-baked eggs and sikhye, a sweet rice drink served cold.",
+        "source": {
+          "name": "The Korea Herald",
+          "url": "https://www.koreaherald.com/article/1864232"
+        },
+        "word": {
+          "ko": "찜질방",
+          "en": "a Korean bathhouse and sauna"
+        }
+      }
+    ]
+  },
+  {
+    "date": "2026-11-04",
+    "items": [
+      {
+        "kind": "ahead",
+        "topic": "drama",
+        "headline": "“100 Days of Deception” starts its second half this weekend",
+        "body": "The tvN period drama airs one episode each Saturday and Sunday at 9:10 pm Korean time, and streams on Netflix outside Korea. Kim You-jung plays a pickpocket in 1932 Gyeongseong, today’s Seoul, sent undercover as a trainee interpreter in the colonial government; Park Jin-young is the interpreter she grows close to. The 16 episodes end on 29 November.",
+        "source": {
+          "name": "The Week",
+          "url": "https://www.theweek.in/news/entertainment/2026/10/12/100-days-of-deception-netflix-kdrama-release-schedule.html"
+        },
+        "word": {
+          "ko": "소매치기",
+          "en": "a pickpocket"
+        }
+      },
+      {
+        "kind": "evergreen",
+        "topic": "food",
+        "headline": "Hotteok is the street snack of cold weather",
+        "body": "Hotteok is a pan-fried pancake of wheat or glutinous rice dough with sugar sealed inside, handed over wrapped in paper. Newer stalls fill it with honey, pumpkin seeds, vegetables or beef. The alleys of Tongin Market in Seoul are one well-known place to find it.",
+        "source": {
+          "name": "Korea.net",
+          "url": "https://www.korea.net/NewsFocus/Society/view?articleId=143510"
+        },
+        "word": {
+          "ko": "호떡",
+          "en": "hotteok, a sweet filled pancake"
+        }
+      }
+    ]
+  },
+  {
+    "date": "2026-11-05",
+    "items": [
+      {
+        "kind": "ahead",
+        "topic": "food",
+        "headline": "Make your own kimchi in Goesan from today",
+        "body": "The Goesan Kimjang Festival in North Chungcheong runs today to Sunday, 10 am to 8 pm, at the Organic Expo Plaza, and entry is free. Pre-booked visitors mix local salted cabbage with the seasoning and take the kimchi home; there is even a drive-through version, plus a tasting of kimchi from other countries.",
+        "source": {
+          "name": "Ministry of Culture, Sports and Tourism",
+          "url": "https://www.mcst.go.kr/site/s_culture/festival/festivalView.jsp?pSeq=11907"
+        },
+        "word": {
+          "ko": "배추",
+          "en": "napa cabbage"
+        }
+      },
+      {
+        "kind": "evergreen",
+        "topic": "travel",
+        "headline": "A taxi app that does not need a Korean phone number",
+        "body": "k.ride is Kakao Mobility’s taxi app for visitors. You do not need a KakaoTalk account, you pay with a credit card you register in the app, and it runs in English, Japanese and Chinese, with automatic translation when you message the driver.",
+        "source": {
+          "name": "Korea Tourism Organization",
+          "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=197907"
+        },
+        "word": {
+          "ko": "택시",
+          "en": "taxi"
+        }
+      }
+    ]
+  },
+  {
+    "date": "2026-11-06",
+    "items": [
+      {
+        "kind": "ahead",
+        "topic": "drama",
+        "headline": "“Doctor X” is into its last stretch",
+        "body": "New episodes of the SBS medical drama land on Netflix every Friday and Saturday, and the 12-episode series ends on 14 November. Kim Ji-won plays a gifted surgeon sent by a placement agency to a university hospital, where she keeps calling out what is wrong with the medical world.",
+        "source": {
+          "name": "What’s on Netflix",
+          "url": "https://www.whats-on-netflix.com/news/k-dramas/k-dramas-coming-to-netflix-november-2026/"
+        },
+        "word": {
+          "ko": "수술",
+          "en": "surgery, an operation"
+        }
+      },
+      {
+        "kind": "evergreen",
+        "topic": "culture",
+        "headline": "The day Korea goes quiet for an exam",
+        "body": "On Thursday 19 November more than 550,000 students sit the college entrance exam, and the country adjusts around them. Offices ask staff to come in after 10 am, Seoul-area subways run more often in the early morning, and no plane may take off or land during the English listening test, from 1:10 to 1:35 pm.",
+        "source": {
+          "name": "Korea JoongAng Daily",
+          "url": "https://www.koreajoongangdaily.com/korea/korea-to-pause-flights-adjust-work-hours-for-nov-19-college-entrance-exam/12930136"
+        },
+        "word": {
+          "ko": "시험",
+          "en": "an exam, a test"
+        }
+      }
+    ]
+  },
+  {
+    "date": "2026-11-07",
+    "items": [
+      {
+        "kind": "ahead",
+        "topic": "weather",
+        "headline": "Today is the first day of winter, on the old calendar",
+        "body": "Ipdong, “the start of winter”, falls today in the traditional set of 24 seasonal markers that farmers once lived by. The next one, Soseol or “minor snow”, comes on 22 November.",
+        "source": {
+          "name": "Korea Astronomy and Space Science Institute",
+          "url": "https://astro.kasi.re.kr/kor/life/post/calendarData?year=2026"
+        },
+        "word": {
+          "ko": "겨울",
+          "en": "winter"
+        }
+      },
+      {
+        "kind": "evergreen",
+        "topic": "food",
+        "headline": "Kimjang: making a winter’s worth of kimchi together",
+        "body": "Late autumn is kimjang season, when families and neighbours make kimchi in huge batches to last the winter, choosing the day by watching the forecast. The preparation runs all year — salted shrimp in spring, sea salt in summer, chillies dried in late summer. UNESCO added kimjang to its intangible heritage list in 2013.",
+        "source": {
+          "name": "UNESCO",
+          "url": "https://ich.unesco.org/en/RL/kimjang-making-and-sharing-kimchi-in-the-republic-of-korea-00881"
+        },
+        "word": {
+          "ko": "김장",
+          "en": "making kimchi for the winter"
+        }
+      }
+    ]
+  },
+  {
+    "date": "2026-11-08",
+    "items": [
+      {
+        "kind": "ahead",
+        "topic": "shopping",
+        "headline": "Wednesday is Pepero Day",
+        "body": "On 11 November people give friends, partners and co-workers Pepero, thin biscuit sticks dipped in chocolate — the date 11/11 looks like four of them. The earliest record is a 1996 story about teenage girls swapping them in North Gyeongsang; the maker, Lotte, says it did not invent the day but has promoted it heavily since 1997.",
+        "source": {
+          "name": "The Korea Times",
+          "url": "https://www.koreatimes.co.kr/southkorea/society/20241107/how-pepero-day-got-started-in-korea"
+        },
+        "word": {
+          "ko": "과자",
+          "en": "a snack, biscuits"
+        }
+      },
+      {
+        "kind": "evergreen",
+        "topic": "food",
+        "headline": "The orange tents are pojangmacha",
+        "body": "Pojangmacha roughly means “covered wagon”: they began as food carts that moved between neighbourhoods, and many now stay put behind plastic sheets that keep out the wind and cold. Inside, strangers share a counter over tteokbokki, fish-cake skewers, sundae and soju.",
+        "source": {
+          "name": "The Korea Times",
+          "url": "https://www.koreatimes.co.kr/southkorea/globalcommunity/20261003/morning-calm-tales-the-irresistible-appeal-of-koreas-pojangmacha-food-tents"
+        },
+        "word": {
+          "ko": "포장마차",
+          "en": "a street food tent"
+        }
+      }
+    ]
   }
 ]

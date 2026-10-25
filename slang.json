@@ -570,5 +570,71 @@
       "ko": "그 선배는 완전 육각형 인간이야",
       "en": "That senior is good at literally everything."
     }
+  },
+  {
+    "ko": "얼죽코",
+    "en": "Coat even if I freeze",
+    "register": "young",
+    "lit": "얼어 죽어도 코트 (even if I freeze to death, a coat)",
+    "note": "For people who refuse a puffy padded jacket and wear a smart coat however cold it gets. Built like 얼죽아, and you see it in fashion magazines every November.",
+    "example": {
+      "ko": "나는 얼죽코라서 패딩 안 입어",
+      "en": "I’m a coat-no-matter-what person, so no puffer for me."
+    }
+  },
+  {
+    "ko": "최애",
+    "en": "My absolute favourite",
+    "register": "casual",
+    "lit": "최 (most) + 애 (love)",
+    "note": "Started with K-pop fans naming their favourite member, and now used for any favourite — food, drama, café. 차애 is your second favourite.",
+    "example": {
+      "ko": "내 최애 멤버는 막내야",
+      "en": "My favourite member is the youngest."
+    }
+  },
+  {
+    "ko": "덕질",
+    "en": "Fan activities, being a fan",
+    "register": "casual",
+    "lit": "from 오덕후 (otaku) + -질 (doing)",
+    "note": "Collecting albums, going to concerts, streaming, making fan edits — all of it is 덕질. A fan is a 덕후 and getting hooked is 입덕.",
+    "example": {
+      "ko": "요즘 덕질하느라 바빠",
+      "en": "I’m busy with fan stuff these days."
+    }
+  },
+  {
+    "ko": "사바사",
+    "en": "Depends on the person",
+    "register": "casual",
+    "lit": "사람 by 사람 (person by person)",
+    "note": "Modelled on 케바케 (case by case), with the English \"by\" in the middle. Handy when someone asks if Koreans all do something.",
+    "example": {
+      "ko": "매운 거 잘 먹는 건 사바사지",
+      "en": "Whether you can handle spicy food depends on the person."
+    }
+  },
+  {
+    "ko": "플러팅",
+    "en": "Flirting",
+    "register": "casual",
+    "lit": "from the English \"flirting\"",
+    "note": "All over dating shows and SNS, often for small, cute signs of interest. 플러팅하다 is the verb; a natural flirt is a 플러팅 장인.",
+    "example": {
+      "ko": "그거 플러팅이야?",
+      "en": "Was that you flirting?"
+    }
+  },
+  {
+    "ko": "킹정",
+    "en": "Totally agree",
+    "register": "young",
+    "lit": "king + 인정 (I admit it)",
+    "note": "The intensifier \"king\" again, stuck onto 인정. Typed as a one-word reply in group chats and comments.",
+    "example": {
+      "ko": "이 집 떡볶이 최고야 — 킹정",
+      "en": "This place has the best tteokbokki. — Couldn’t agree more."
+    }
   }
 ]
