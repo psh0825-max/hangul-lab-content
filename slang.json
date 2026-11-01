@@ -636,5 +636,71 @@
       "ko": "이 집 떡볶이 최고야 — 킹정",
       "en": "This place has the best tteokbokki. — Couldn’t agree more."
     }
+  },
+  {
+    "ko": "찐텐",
+    "en": "Genuine excitement",
+    "register": "young",
+    "lit": "찐 (real) + 텐션 (tension, energy)",
+    "note": "The opposite of 억텐, forced excitement. Variety-show fans use it when a guest’s reaction is clearly not acted.",
+    "example": {
+      "ko": "방금 그 리액션은 찐텐이었어",
+      "en": "That reaction just now was the real thing."
+    }
+  },
+  {
+    "ko": "가보자고",
+    "en": "Let’s go for it",
+    "register": "casual",
+    "lit": "가 보자 (let’s go) + -고, said as if quoting yourself",
+    "note": "A hype phrase before a challenge, a big order or a late night out. All over SNS captions and variety shows.",
+    "example": {
+      "ko": "오늘 마라탕 3단계? 가보자고!",
+      "en": "Level-three spicy mala today? Let’s do it!"
+    }
+  },
+  {
+    "ko": "긁히다",
+    "en": "To get stung by a remark",
+    "register": "young",
+    "lit": "to be scratched",
+    "note": "When someone reacts angrily to a jab, people tease “긁혔네” — you got scratched. In comments it shrinks to just “긁?”, which is itself a provocation, so keep it among friends.",
+    "example": {
+      "ko": "농담인데 왜 화내? 긁혔어?",
+      "en": "It was a joke, why are you angry? Did that sting?"
+    }
+  },
+  {
+    "ko": "쩝쩝박사",
+    "en": "A food-combo genius",
+    "register": "young",
+    "lit": "쩝쩝 (the sound of munching) + 박사 (doctor, PhD)",
+    "note": "Someone who knows the best way to eat things — which ramyeon goes with which cheese, which convenience-store snacks to mix. Used in food videos and for the friend who orders for the table.",
+    "example": {
+      "ko": "편의점 조합은 쩝쩝박사한테 물어봐",
+      "en": "Ask the food genius about convenience-store combos."
+    }
+  },
+  {
+    "ko": "만반잘부",
+    "en": "Nice to meet you, let’s get along",
+    "register": "young",
+    "lit": "short for 만나서 반가워, 잘 부탁해",
+    "note": "A cheerful first message in a new group chat, club or class. It is 반말 (casual speech), so not for a new boss.",
+    "example": {
+      "ko": "안녕 나 새로 들어왔어, 만반잘부!",
+      "en": "Hi, I’m new here — nice to meet you all!"
+    }
+  },
+  {
+    "ko": "좋댓구알",
+    "en": "Like, comment, subscribe, hit the bell",
+    "register": "casual",
+    "lit": "short for 좋아요·댓글·구독·알림 설정",
+    "note": "The line Korean YouTubers say at the end of almost every video. People also use it jokingly to ask friends to support something.",
+    "example": {
+      "ko": "영상 재밌게 보셨으면 좋댓구알 부탁드려요",
+      "en": "If you enjoyed the video, please like, comment, subscribe and turn on notifications."
+    }
   }
 ]
