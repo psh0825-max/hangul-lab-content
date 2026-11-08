@@ -2091,5 +2091,236 @@
         }
       }
     ]
+  },
+  {
+    "date": "2026-11-16",
+    "items": [
+      {
+        "kind": "ahead",
+        "topic": "travel",
+        "headline": "The first ski slopes could open this Friday",
+        "body": "Phoenix in Pyeongchang has moved its target opening forward from 27 to 20 November. Mona Yongpyong and High1 plan to open on the 27th, Alpensia on the 28th and Vivaldi Park at the end of the month, all depending on the weather.",
+        "source": {
+          "name": "Financial News",
+          "url": "https://www.fnnews.com/news/202611050615599894"
+        },
+        "word": {
+          "ko": "스키",
+          "en": "skiing, skis"
+        }
+      },
+      {
+        "kind": "evergreen",
+        "topic": "travel",
+        "headline": "Time Out picked Jongno 3-ga as the coolest neighbourhood in the world",
+        "body": "The British magazine ranked the old downtown area first for 2026, up from third in 2021. It has the hanok alleys of Ikseon-dong, long-running restaurants such as the monkfish houses, and street-side tent bars that fill up after dark, all a short walk from Changdeokgung Palace.",
+        "source": {
+          "name": "Seoul Metropolitan Government",
+          "url": "https://english.seoul.go.kr/selected-by-time-out-uk-jongno-3-ga-the-coolest-neighborhood-in-the-world/"
+        },
+        "word": {
+          "ko": "동네",
+          "en": "a neighbourhood"
+        }
+      }
+    ]
+  },
+  {
+    "date": "2026-11-17",
+    "items": [
+      {
+        "kind": "ahead",
+        "topic": "festival",
+        "headline": "Jeju’s tangerine expo opens on Thursday",
+        "body": "The Jeju Citrus Expo runs from Thursday 19 to Monday 23 November at the Jeju Agricultural Ecology Garden of the Seogwipo Agricultural Technology Center. Alongside the farming exhibits there are performances, a direct-sale market for tangerines and hands-on activities for families.",
+        "source": {
+          "name": "Financial News",
+          "url": "https://www.fnnews.com/news/202608131020461036"
+        },
+        "word": {
+          "ko": "귤",
+          "en": "a tangerine"
+        }
+      },
+      {
+        "kind": "evergreen",
+        "topic": "language",
+        "headline": "Polite or casual: why Koreans want to know your age",
+        "body": "Korean speech splits into two broad styles: jondaetmal, used in public, at work and to anyone older, and banmal, used between friends of the same age and towards younger people. Age is still a key part of social order, so speaking to someone before you know how old they are can go badly wrong.",
+        "source": {
+          "name": "The Korea Herald",
+          "url": "https://www.koreaherald.com/article/3211101"
+        },
+        "word": {
+          "ko": "존댓말",
+          "en": "polite speech"
+        }
+      }
+    ]
+  },
+  {
+    "date": "2026-11-18",
+    "items": [
+      {
+        "kind": "ahead",
+        "topic": "drama",
+        "headline": "The divorce-lawyer drama “Good Partner” returns on Friday",
+        "body": "Season two starts on SBS on Friday 20 November at 9:50 pm Korean time and airs Fridays and Saturdays for 16 episodes. Jang Na-ra is back as star divorce lawyer Cha Eun-kyung, now running her own firm, and Kim Hye-yoon joins as the lawyer she teams up with.",
+        "source": {
+          "name": "Sports Kyunghyang",
+          "url": "https://sports.khan.co.kr/en/article/202611040801007"
+        },
+        "word": {
+          "ko": "변호사",
+          "en": "a lawyer"
+        }
+      },
+      {
+        "kind": "evergreen",
+        "topic": "culture",
+        "headline": "Why students get toffee before the big exam",
+        "body": "Tomorrow is the college entrance exam, and the traditional good-luck gifts are sticky: yeot, a chewy rice toffee, and chapssaltteok, glutinous rice cakes. In Korean you “stick” to a school you pass into, so the sticky food is a wish to get in. These days vitamins, red ginseng and exam watches are popular gifts too.",
+        "source": {
+          "name": "Local Naeil",
+          "url": "https://www.localnaeil.com/News/View/641318"
+        },
+        "word": {
+          "ko": "엿",
+          "en": "yeot, Korean rice toffee"
+        }
+      }
+    ]
+  },
+  {
+    "date": "2026-11-19",
+    "items": [
+      {
+        "kind": "ahead",
+        "topic": "music",
+        "headline": "The MAMA Awards are in Osaka tomorrow and Saturday",
+        "body": "CJ ENM holds the 2026 MAMA Awards over two nights, Friday 20 and Saturday 21 November, at the Kyocera Dome in Osaka. You do not need a ticket to watch: both nights stream live worldwide on Mnet Plus.",
+        "source": {
+          "name": "CJ ENM",
+          "url": "https://cjenm.com/en/news/2026-mama-awards-to-take-place-in-japan---from-november-2021/"
+        },
+        "word": {
+          "ko": "시상식",
+          "en": "an awards ceremony"
+        }
+      },
+      {
+        "kind": "evergreen",
+        "topic": "food",
+        "headline": "In the cold, look for fish-cake skewers in hot broth",
+        "body": "Eomuk, Korean fish cake, is threaded on skewers and kept steaming in hot broth at street corners all winter, or served as eomuktang, a soup with konjac and vegetables. Busan is the home of the industry, and fish cakes stamped “Busan Eomuk” are thought of as among the best.",
+        "source": {
+          "name": "Korea.net",
+          "url": "https://www.korea.net/NewsFocus/Society/view?articleId=131702"
+        },
+        "word": {
+          "ko": "어묵",
+          "en": "fish cake"
+        }
+      }
+    ]
+  },
+  {
+    "date": "2026-11-20",
+    "items": [
+      {
+        "kind": "ahead",
+        "topic": "culture",
+        "headline": "Seoul Design Festival fills a hall at COEX next Thursday",
+        "body": "The 25th Seoul Design Festival runs from Thursday 26 to Sunday 29 November in Hall A at COEX in Gangnam. Organised by Design House, it shows product and graphic design, crafts and lifestyle goods, with a focus on young designers and new brands.",
+        "source": {
+          "name": "Seoul Design Festival",
+          "url": "https://seoul.designfestival.co.kr/"
+        },
+        "word": {
+          "ko": "디자인",
+          "en": "design"
+        }
+      },
+      {
+        "kind": "evergreen",
+        "topic": "food",
+        "headline": "Chimaek: fried chicken and beer on a Friday night",
+        "body": "Fried chicken and beer together are called chimaek, and the pairing took off during the 2002 World Cup, when fans wanted something to eat in front of the match. A 2013 KB Financial Group count found 31,000 fried-chicken places, about one for every 1,500 people, and chicken is one of the cheapest things to have delivered.",
+        "source": {
+          "name": "Korea JoongAng Daily",
+          "url": "https://www.koreajoongangdaily.com/lifestyle/chicken-and-beer-a-deepfried-history/11702543"
+        },
+        "word": {
+          "ko": "치킨",
+          "en": "fried chicken"
+        }
+      }
+    ]
+  },
+  {
+    "date": "2026-11-21",
+    "items": [
+      {
+        "kind": "ahead",
+        "topic": "drama",
+        "headline": "Park Min-young’s new office romance starts on Wednesday",
+        "body": "“Nine to Six” premieres on SBS on Wednesday 25 November at 9 pm Korean time, in the Wednesday-Thursday slot. Park Min-young plays a strictly logical woman and Yook Sung-jae a warm-hearted colleague at a car company, in a story about balancing work, life and love.",
+        "source": {
+          "name": "Sports Kyunghyang",
+          "url": "https://sports.khan.co.kr/en/article/202610211025007"
+        },
+        "word": {
+          "ko": "회사",
+          "en": "a company, the office"
+        }
+      },
+      {
+        "kind": "evergreen",
+        "topic": "travel",
+        "headline": "Change buses within 30 minutes and the next ride is free",
+        "body": "In Seoul, if you pay by transport card or bank card you can transfer between buses and the subway up to four times a day without paying again, as long as you change within 30 minutes — an hour between 9 pm and 7 am. You pay only the distance surcharge, or the difference if the next ride costs more. Cash fares get no discount.",
+        "source": {
+          "name": "The Korea Herald",
+          "url": "https://v.daum.net/v/20230509153415472"
+        },
+        "word": {
+          "ko": "환승",
+          "en": "a transfer, changing lines"
+        }
+      }
+    ]
+  },
+  {
+    "date": "2026-11-22",
+    "items": [
+      {
+        "kind": "ahead",
+        "topic": "weather",
+        "headline": "Today is Soseol, the “light snow” day on the old calendar",
+        "body": "Soseol, the solar term between the start of winter and Daeseol, falls today. The name means a little snow, but snow is not guaranteed; in the past families hurried to finish kimjang before it, and the strong wind of this time of year has its own name, sondol baram.",
+        "source": {
+          "name": "Wikitree",
+          "url": "https://www.wikitree.co.kr/articles/1171549"
+        },
+        "word": {
+          "ko": "소설",
+          "en": "Soseol, “light snow” (also means a novel)"
+        }
+      },
+      {
+        "kind": "evergreen",
+        "topic": "shopping",
+        "headline": "The knee-length puffer is Korea’s winter uniform",
+        "body": "Long padded coats began as the bench coats athletes wore, made popular by a 1994 basketball drama. They spread to students, and in 2017 people queued for a cheap official PyeongChang Olympics version. Many Koreans now call one a survival item for the cold.",
+        "source": {
+          "name": "Korea JoongAng Daily",
+          "url": "https://www.koreajoongangdaily.com/kjd-special/why-fashion-meets-function-why-koreans-cant-let-go-of-the-long-padded-jacket/12270597"
+        },
+        "word": {
+          "ko": "패딩",
+          "en": "a padded coat, a puffer"
+        }
+      }
+    ]
   }
 ]

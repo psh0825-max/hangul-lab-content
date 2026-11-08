@@ -702,5 +702,71 @@
       "ko": "영상 재밌게 보셨으면 좋댓구알 부탁드려요",
       "en": "If you enjoyed the video, please like, comment, subscribe and turn on notifications."
     }
+  },
+  {
+    "ko": "두쫀쿠",
+    "en": "Dubai chewy cookie",
+    "register": "young",
+    "lit": "short for 두바이 쫀득 쿠키",
+    "note": "A Korean dessert inspired by Dubai chocolate: pistachio cream and crisp kadaif wrapped in chewy marshmallow dough and rolled in cocoa. It became a craze in late 2025, with queues at bakeries and prices near 10,000 won each.",
+    "example": {
+      "ko": "두쫀쿠 사려고 한 시간 줄 섰어",
+      "en": "I queued for an hour to get a Dubai chewy cookie."
+    }
+  },
+  {
+    "ko": "에겐남",
+    "en": "A soft, gentle guy",
+    "register": "young",
+    "lit": "에겐 (from estrogen) + 남 (man)",
+    "note": "The partner word to 테토남. Online personality tests sort people into 에겐 (sensitive, gentle) and 테토 (bold, take-charge) types, men and women alike — 에겐녀 and 테토녀 too. Said playfully, but some people dislike the stereotyping.",
+    "example": {
+      "ko": "내 남자친구는 완전 에겐남이야",
+      "en": "My boyfriend is the soft, gentle type."
+    }
+  },
+  {
+    "ko": "그잡채",
+    "en": "The very thing itself",
+    "register": "young",
+    "lit": "그 자체 (itself), bent to sound like 잡채, glass noodles",
+    "note": "Used exactly where you would say 그 자체 — “pure”, “the embodiment of”. The joke is only the sound of the noodle dish.",
+    "example": {
+      "ko": "오늘 날씨 가을 그잡채다",
+      "en": "Today’s weather is autumn itself."
+    }
+  },
+  {
+    "ko": "저메추",
+    "en": "Dinner suggestions?",
+    "register": "young",
+    "lit": "short for 저녁 메뉴 추천",
+    "note": "The dinner version of 점메추 (lunch). Typed into group chats and community boards when you cannot decide what to eat.",
+    "example": {
+      "ko": "배고픈데 저메추 좀 해 줘",
+      "en": "I’m hungry — what should I have for dinner?"
+    }
+  },
+  {
+    "ko": "개웃기다",
+    "en": "Hilarious",
+    "register": "careful",
+    "lit": "개- (sounds like 개, dog) + 웃기다 (funny)",
+    "note": "The prefix 개- turns anything up to “super”: 개좋아, 개맛있어. Young people use it constantly, but it began as a crude insult, so never use it with elders, teachers or at work. 진짜 웃기다 is the safe version.",
+    "example": {
+      "ko": "그 영상 개웃기다",
+      "en": "That video is hilarious."
+    }
+  },
+  {
+    "ko": "도파민 터지다",
+    "en": "A total thrill",
+    "register": "casual",
+    "lit": "dopamine bursts",
+    "note": "Said about shows, games or gossip that are wildly exciting — dating shows and twist-heavy dramas are called 도파민 드라마. Also used for things that are fun but not good for you.",
+    "example": {
+      "ko": "이 연애 예능 도파민 터진다",
+      "en": "This dating show is such a rush."
+    }
   }
 ]
