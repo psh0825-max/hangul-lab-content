@@ -339,5 +339,178 @@
         "en": "I do not understand"
       }
     ]
+  },
+  {
+    "id": "numbers",
+    "title": "Numbers & Prices",
+    "scene": "shopping",
+    "blurb": "Korean has two sets of numbers. You need a little of both.",
+    "phrases": [
+      {
+        "ko": "하나, 둘, 셋",
+        "en": "One, two, three (counting things)",
+        "note": "The native numbers — for counting objects and people."
+      },
+      {
+        "ko": "일, 이, 삼",
+        "en": "One, two, three (prices and dates)",
+        "note": "The Chinese-derived numbers — for money, dates, minutes and phone numbers."
+      },
+      {
+        "ko": "천 원이에요",
+        "en": "It is 1,000 won"
+      },
+      {
+        "ko": "만 원이에요",
+        "en": "It is 10,000 won",
+        "note": "Korean counts in ten-thousands (만), not thousands. 50,000 is 오만 — \"five man\"."
+      },
+      {
+        "ko": "두 개 주세요",
+        "en": "Two of these, please"
+      },
+      {
+        "ko": "하나 더 주세요",
+        "en": "One more, please"
+      },
+      {
+        "ko": "몇 시예요?",
+        "en": "What time is it?"
+      },
+      {
+        "ko": "너무 비싸요",
+        "en": "It is too expensive"
+      },
+      {
+        "ko": "현금으로 할게요",
+        "en": "I will pay in cash"
+      }
+    ]
+  },
+  {
+    "id": "transit",
+    "title": "Subway & Bus",
+    "scene": "subway",
+    "blurb": "Getting around without a taxi.",
+    "phrases": [
+      {
+        "ko": "이 버스 강남 가요?",
+        "en": "Does this bus go to Gangnam?"
+      },
+      {
+        "ko": "어디서 갈아타요?",
+        "en": "Where do I transfer?"
+      },
+      {
+        "ko": "다음 역이 어디예요?",
+        "en": "What is the next station?"
+      },
+      {
+        "ko": "몇 번 출구예요?",
+        "en": "Which exit number is it?",
+        "note": "Subway exits are numbered, and directions are almost always given by exit number."
+      },
+      {
+        "ko": "교통카드 충전해 주세요",
+        "en": "Please top up my transit card",
+        "note": "Say it at a convenience store counter. Top-ups there are usually cash only."
+      },
+      {
+        "ko": "내릴게요",
+        "en": "I am getting off",
+        "note": "Say it on a crowded bus or train and people will make way."
+      },
+      {
+        "ko": "막차가 몇 시예요?",
+        "en": "What time is the last train?"
+      }
+    ]
+  },
+  {
+    "id": "order",
+    "title": "Ordering Like a Local",
+    "scene": "restaurant",
+    "blurb": "Past \"this one, please\" — the phrases regulars use.",
+    "phrases": [
+      {
+        "ko": "여기요!",
+        "en": "Excuse me! (calling staff)",
+        "note": "Calling out across the room is normal, not rude. Many tables also have a call button."
+      },
+      {
+        "ko": "추천해 주세요",
+        "en": "What do you recommend?"
+      },
+      {
+        "ko": "이거 매워요?",
+        "en": "Is this spicy?"
+      },
+      {
+        "ko": "반찬 더 주세요",
+        "en": "More side dishes, please",
+        "note": "Side dishes are refilled for free."
+      },
+      {
+        "ko": "소주 한 병 주세요",
+        "en": "One bottle of soju, please"
+      },
+      {
+        "ko": "따로 계산해 주세요",
+        "en": "Separate bills, please"
+      },
+      {
+        "ko": "잘 먹겠습니다",
+        "en": "Thank you for the meal (before eating)",
+        "note": "Literally \"I will eat well\". Said to whoever cooked or is paying."
+      },
+      {
+        "ko": "잘 먹었습니다",
+        "en": "Thank you for the meal (after eating)"
+      }
+    ]
+  },
+  {
+    "id": "friends",
+    "title": "Making Friends",
+    "scene": "conversation",
+    "blurb": "The questions people will ask you, and how to ask them back.",
+    "phrases": [
+      {
+        "ko": "몇 살이에요?",
+        "en": "How old are you?",
+        "note": "Not rude in Korea — age decides how politely two people speak to each other."
+      },
+      {
+        "ko": "어디 살아요?",
+        "en": "Where do you live?"
+      },
+      {
+        "ko": "뭐 좋아해요?",
+        "en": "What do you like?"
+      },
+      {
+        "ko": "한국 드라마 좋아해요",
+        "en": "I like Korean dramas"
+      },
+      {
+        "ko": "같이 밥 먹어요",
+        "en": "Let us eat together",
+        "note": "Sharing a meal is how friendships start here."
+      },
+      {
+        "ko": "카톡 아이디 알려 주세요",
+        "en": "Please tell me your KakaoTalk ID",
+        "note": "Nearly everyone in Korea messages on KakaoTalk rather than by text."
+      },
+      {
+        "ko": "말 편하게 하세요",
+        "en": "Please speak casually with me",
+        "note": "Said to someone older than you: an invitation for them to drop the formal endings when talking to you."
+      },
+      {
+        "ko": "다음에 또 봐요",
+        "en": "See you again"
+      }
+    ]
   }
 ]
