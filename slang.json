@@ -768,5 +768,71 @@
       "ko": "이 연애 예능 도파민 터진다",
       "en": "This dating show is such a rush."
     }
+  },
+  {
+    "ko": "불금",
+    "en": "Friday night out",
+    "register": "casual",
+    "lit": "불타는 금요일, a burning Friday",
+    "note": "Friday night when the week is over and you go out to eat, drink or have fun. Heard everywhere from offices to variety shows.",
+    "example": {
+      "ko": "오늘 불금인데 뭐 해?",
+      "en": "It’s Friday night — what are you up to?"
+    }
+  },
+  {
+    "ko": "심쿵",
+    "en": "Heart-fluttering",
+    "register": "casual",
+    "lit": "심장이 쿵, the heart goes thump",
+    "note": "Said when something is so cute or romantic that your heart skips a beat — a scene in a drama, a puppy, an idol’s smile.",
+    "example": {
+      "ko": "그 장면 보고 심쿵했어",
+      "en": "My heart skipped a beat at that scene."
+    }
+  },
+  {
+    "ko": "인생샷",
+    "en": "The best photo of your life",
+    "register": "casual",
+    "lit": "인생 (life) + shot",
+    "note": "A photo so good you will keep it forever. Cafés, flower fields and Christmas light displays are promoted as 인생샷 spots.",
+    "example": {
+      "ko": "여기서 인생샷 건졌어",
+      "en": "I got the photo of my life here."
+    }
+  },
+  {
+    "ko": "사이다",
+    "en": "Satisfying, cathartic",
+    "register": "casual",
+    "lit": "cider, the fizzy lemon-lime soda",
+    "note": "When a character finally tells someone off or the villain gets caught, it feels as refreshing as a cold soda. The opposite is 고구마 (sweet potato): a frustrating, stuffy plot.",
+    "example": {
+      "ko": "그 장면 완전 사이다였어",
+      "en": "That scene was so satisfying."
+    }
+  },
+  {
+    "ko": "자만추",
+    "en": "Meeting someone naturally",
+    "register": "young",
+    "lit": "short for 자연스러운 만남 추구",
+    "note": "Preferring to meet a partner naturally, through life, rather than through blind dates or apps. Heard on dating shows and in talk about love life.",
+    "example": {
+      "ko": "나는 소개팅보다 자만추야",
+      "en": "I’d rather meet someone naturally than go on a blind date."
+    }
+  },
+  {
+    "ko": "많관부",
+    "en": "Please show lots of interest",
+    "register": "young",
+    "lit": "short for 많은 관심 부탁드립니다",
+    "note": "The line idols and actors use when promoting a new song or drama, and that anyone can borrow to promote their own thing. Polite in meaning, playful in form.",
+    "example": {
+      "ko": "이번 주 새 영상 올라가요, 많관부!",
+      "en": "New video goes up this week — please check it out!"
+    }
   }
 ]

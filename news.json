@@ -2322,5 +2322,236 @@
         }
       }
     ]
+  },
+  {
+    "date": "2026-11-23",
+    "items": [
+      {
+        "kind": "ahead",
+        "topic": "shopping",
+        "headline": "Myeongdong’s Christmas wall show runs every night",
+        "body": "Shinsegae’s flagship store in Myeongdong plays a 3-minute-40-second Christmas film on its outer wall, the media facade called Shinsegae Square, every day from 5 pm to midnight until 31 January. This year a bear carries Christmas wishes to an ice castle, set to Beethoven’s Ninth with carol melodies. The store’s holiday market opens on Tuesday 24 November.",
+        "source": {
+          "name": "Yonhap News",
+          "url": "https://www.koreancenter.or.kr/news/articleView.html?idxno=1434896"
+        },
+        "word": {
+          "ko": "크리스마스",
+          "en": "Christmas"
+        }
+      },
+      {
+        "kind": "evergreen",
+        "topic": "food",
+        "headline": "Bungeoppang: a fish-shaped bun with no fish inside",
+        "body": "The name means “crucian carp bread”, but it is a bun baked in a fish-shaped iron mould, traditionally filled with sweet red bean paste and now also with custard, cream cheese or chocolate. Street stalls selling it have become fewer and pricier: 1,000 won once bought five to ten, and by 2020 it bought two or three.",
+        "source": {
+          "name": "Korea.net",
+          "url": "https://www.korea.net/NewsFocus/Culture/view?articleId=183434"
+        },
+        "word": {
+          "ko": "붕어빵",
+          "en": "bungeoppang, a fish-shaped bun"
+        }
+      }
+    ]
+  },
+  {
+    "date": "2026-11-24",
+    "items": [
+      {
+        "kind": "ahead",
+        "topic": "drama",
+        "headline": "Park Hoon-jung’s new action noir opens tomorrow",
+        "body": "“Sad Tropics” reaches Korean cinemas on Wednesday 25 November. Kim Myung-min plays the “Master” who founded a killer organisation; after he dies, the assassins he raised like brothers start to suspect one another and swear bloody revenge.",
+        "source": {
+          "name": "SBS News",
+          "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008816721"
+        },
+        "word": {
+          "ko": "복수",
+          "en": "revenge"
+        }
+      },
+      {
+        "kind": "evergreen",
+        "topic": "culture",
+        "headline": "Ondol: why Korean homes are heated from the floor",
+        "body": "In traditional ondol, fire warmed flat stones under the floor and the heat rose through the whole room; today insulated hot-water pipes do the same job. Remains suggest it has been used on the peninsula for more than 2,000 years, and the warm floor is why Koreans sit and sleep low and take their shoes off indoors.",
+        "source": {
+          "name": "Korea.net",
+          "url": "https://www.korea.net/NewsFocus/Culture/view?articleId=156191"
+        },
+        "word": {
+          "ko": "온돌",
+          "en": "ondol, floor heating"
+        }
+      }
+    ]
+  },
+  {
+    "date": "2026-11-25",
+    "items": [
+      {
+        "kind": "ahead",
+        "topic": "festival",
+        "headline": "Christmas Village Busan opens on Thursday",
+        "body": "The Busan Cinema Center in Haeundae turns into a Christmas village from Thursday 26 November to 25 December, open 4 pm to 10 pm on weekdays and 11 am to 10 pm at weekends. Expect a snowy plaza, parades, choirs and holiday menus from local Busan brands. Entry is by paid ticket this year to cut the queues.",
+        "source": {
+          "name": "KTripTips",
+          "url": "https://www.ktriptips.com/eng/festival/4135883"
+        },
+        "word": {
+          "ko": "마을",
+          "en": "a village"
+        }
+      },
+      {
+        "kind": "evergreen",
+        "topic": "culture",
+        "headline": "Red long johns: the classic first-paycheck gift",
+        "body": "Korean children have long given their parents a set of red long underwear, naebok, when they receive their first monthly salary. When homes were poorly heated the gift was practical as well as symbolic. The custom has faded, and makers of the classic red sets have struggled against cheaper thermal wear.",
+        "source": {
+          "name": "Korea JoongAng Daily",
+          "url": "https://www.koreajoongangdaily.com/business/traditional-underwear-makers-are-underwater/11328815"
+        },
+        "word": {
+          "ko": "내복",
+          "en": "long underwear"
+        }
+      }
+    ]
+  },
+  {
+    "date": "2026-11-26",
+    "items": [
+      {
+        "kind": "ahead",
+        "topic": "music",
+        "headline": "Cho Yong-pil plays three nights at KSPO Dome from tomorrow",
+        "body": "Cho Yong-pil, whom Koreans call gawang, the “king of singers”, plays the KSPO Dome in Seoul’s Olympic Park with his band Wuidaehan Tansaeng (The Great Birth) from Friday 27 to Sunday 29 November. The show spans songs from his half-century career.",
+        "source": {
+          "name": "Herald Economy",
+          "url": "https://www.heraldk.com/article/2026091601193472589"
+        },
+        "word": {
+          "ko": "가수",
+          "en": "a singer"
+        }
+      },
+      {
+        "kind": "evergreen",
+        "topic": "weather",
+        "headline": "Three cold days, four warm ones",
+        "body": "Samhansaon, “three cold, four warm”, is the traditional description of Korean winter weather: a few bitterly cold days followed by a few milder ones. With global warming it is unclear whether the pattern still holds, but people still say it when a cold snap gives way to a gentler spell.",
+        "source": {
+          "name": "Korea Economic Institute of America",
+          "url": "https://keia.org/analysis/ten-useful-korean-words-for-winter/"
+        },
+        "word": {
+          "ko": "삼한사온",
+          "en": "three cold days, four warm days"
+        }
+      }
+    ]
+  },
+  {
+    "date": "2026-11-27",
+    "items": [
+      {
+        "kind": "ahead",
+        "topic": "festival",
+        "headline": "A Victorian Christmas market fills the lawn in Jamsil",
+        "body": "The Lotte Town Christmas Market runs until 3 January on the outdoor lawn of Jamsil World Park, beside Lotte World Mall. This year’s theme is a 19th-century British market, with a 17-metre clock tower, a carousel, fish and chips and a nightly show projected on the mall. Entry is booked in advance; December slots opened on 20 November.",
+        "source": {
+          "name": "Yonhap News",
+          "url": "https://supple.kr/news/cmw70and3wy5eal9pjj8iep0u"
+        },
+        "word": {
+          "ko": "회전목마",
+          "en": "a carousel"
+        }
+      },
+      {
+        "kind": "evergreen",
+        "topic": "food",
+        "headline": "Hoppang: the bun made for winter",
+        "body": "Samlip launched hoppang, a steamed bun with sweet red bean filling, in October 1971 because bread sales dropped every winter. The name means bread you blow on because it is hot, and the round red steamer in front of neighbourhood shops became a winter sight. More than 6.8 billion have been sold.",
+        "source": {
+          "name": "Asia Economy",
+          "url": "https://www.asiae.co.kr/en/article/2026011515420693676"
+        },
+        "word": {
+          "ko": "호빵",
+          "en": "hoppang, a steamed bun"
+        }
+      }
+    ]
+  },
+  {
+    "date": "2026-11-28",
+    "items": [
+      {
+        "kind": "ahead",
+        "topic": "drama",
+        "headline": "“100 Days of Deception” ends tomorrow",
+        "body": "The weekend spy romance airs its 16th and final episode on Sunday 29 November and streams on Netflix. Kim You-jung plays a skilled pickpocket working for the independence army under Japanese rule, who goes undercover inside the Japanese Government-General, and Park Jin-young co-stars.",
+        "source": {
+          "name": "What’s on Netflix",
+          "url": "https://www.whats-on-netflix.com/news/k-dramas/k-dramas-coming-to-netflix-november-2026/"
+        },
+        "word": {
+          "ko": "거짓말",
+          "en": "a lie"
+        }
+      },
+      {
+        "kind": "evergreen",
+        "topic": "culture",
+        "headline": "December means year-end gatherings, but smaller ones",
+        "body": "Songnyeonhoe are year-end get-togethers with colleagues or friends, traditionally a long evening of food and drinks. They are changing: in a 2023 JobKorea survey only 44.1% of office workers said their company still held one, and a simple lunch was the most popular format. Forced drinking has largely faded.",
+        "source": {
+          "name": "Asia Economy",
+          "url": "https://www.asiae.co.kr/en/article/2023122215282239407"
+        },
+        "word": {
+          "ko": "송년회",
+          "en": "a year-end party"
+        }
+      }
+    ]
+  },
+  {
+    "date": "2026-11-29",
+    "items": [
+      {
+        "kind": "ahead",
+        "topic": "travel",
+        "headline": "Flying to Korea in January? Check the K-ETA rules first",
+        "body": "Korea’s temporary K-ETA exemption, which covers travellers from countries including the US, runs to 31 December 2026. If your trip is in the new year, check k-eta.go.kr for the latest rules before you book. Exempt travellers may still apply for a K-ETA voluntarily, for a fee.",
+        "source": {
+          "name": "Ministry of Foreign Affairs",
+          "url": "https://www.mofa.go.kr/us-hagatna-en/brd/m_5521/view.do?seq=761689"
+        },
+        "word": {
+          "ko": "여행",
+          "en": "a trip, travel"
+        }
+      },
+      {
+        "kind": "evergreen",
+        "topic": "culture",
+        "headline": "In Korea, Christmas is a date night",
+        "body": "Christmas became a public holiday soon after liberation in 1945, and Korea is the only East Asian country where it is one. Yet it is mostly a couples’ day: Christmas Eve was one of the few nights exempt from the curfew that lasted until 1982, and couples still mark it with dinners and Christmas cakes.",
+        "source": {
+          "name": "Korea JoongAng Daily",
+          "url": "https://www.koreajoongangdaily.com/news/2024-12-21/why/WHY-Valentines-Day-with-Santa-How-Christmas-became-a-couples-holiday-in-Korea/2205575"
+        },
+        "word": {
+          "ko": "연인",
+          "en": "a couple, lovers"
+        }
+      }
+    ]
   }
 ]
