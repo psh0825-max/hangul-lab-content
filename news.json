@@ -2553,5 +2553,236 @@
         }
       }
     ]
+  },
+  {
+    "date": "2026-11-30",
+    "items": [
+      {
+        "kind": "ahead",
+        "topic": "culture",
+        "headline": "The Salvation Army’s red kettles come out today",
+        "body": "The Salvation Army Korea holds its sijongsik, the ceremony that rings in the year’s red kettle campaign, on Monday 30 November. The red pot, jaseon naembi or “charity pot”, is a sign that the year-end giving season has begun; the singer Isabel has supported it for 19 years.",
+        "source": {
+          "name": "Ilgan Sports",
+          "url": "https://isplus.com/article/view/isp202611190062"
+        },
+        "word": {
+          "ko": "냄비",
+          "en": "a pot"
+        }
+      },
+      {
+        "kind": "evergreen",
+        "topic": "food",
+        "headline": "Bangeo: the winter sashimi people queue for",
+        "body": "Yellowtail, bangeo, is at its best from now to February, when the fish builds a thick layer of fat in cold water. Fans prize dae-bangeo, large fish over 5 kg, and popular sashimi places draw long queues in December. It only became a Korean winter favourite in the 2010s.",
+        "source": {
+          "name": "Korea JoongAng Daily",
+          "url": "https://www.koreajoongangdaily.com/lifestyle/the-yellowtail-the-raw-fish-young-koreans-will-brave-winter-cold-long-lines-high-prices-to-enjoy/10187403"
+        },
+        "word": {
+          "ko": "방어",
+          "en": "yellowtail (fish)"
+        }
+      }
+    ]
+  },
+  {
+    "date": "2026-12-01",
+    "items": [
+      {
+        "kind": "ahead",
+        "topic": "festival",
+        "headline": "Haeundae beach is lit up until 10 January",
+        "body": "The 13th Haeundae Light Festival in Busan opened on 28 November and runs until 10 January around Haeundae Square and the beach. This year’s theme is “Deep Dive Haeundae”, with a 30-metre tunnel of light, a 12-metre boat sculpture and six Christmas trees, plus artificial snow on Christmas Day.",
+        "source": {
+          "name": "Kyongbuk Maeil",
+          "url": "https://kbmaeil.com/article/20261114500031"
+        },
+        "word": {
+          "ko": "바다",
+          "en": "the sea"
+        }
+      },
+      {
+        "kind": "evergreen",
+        "topic": "food",
+        "headline": "Gwamegi: fish dried by the winter wind",
+        "body": "Gwamegi is Pacific saury, or traditionally herring, left outside in Guryongpo, Pohang, where it freezes at night and thaws by day until it is chewy and half dry. About 80% of Korea’s gwamegi comes from that village. It is a winter-only food, sold from mid-November to February.",
+        "source": {
+          "name": "MICHELIN Guide",
+          "url": "https://guide.michelin.com/kr/en/article/features/gwamegi-fishy-never-tastier"
+        },
+        "word": {
+          "ko": "과메기",
+          "en": "gwamegi, half-dried fish"
+        }
+      }
+    ]
+  },
+  {
+    "date": "2026-12-02",
+    "items": [
+      {
+        "kind": "ahead",
+        "topic": "travel",
+        "headline": "More ski slopes open this week",
+        "body": "Gangwon’s ski season is starting. Phoenix in Pyeongchang aimed to open on 26 November, Mona YongPyong and High1 on 27 November, and Elysian Gangchon in Chuncheon, the closest to Seoul, plans to open on Friday 4 December. Opening days depend on the weather, so check the resort’s own site before you go.",
+        "source": {
+          "name": "Korea JoongAng Daily",
+          "url": "https://www.koreajoongangdaily.com/lifestyle/winter-is-coming-gangwon-ski-resorts-race-to-open/12970909"
+        },
+        "word": {
+          "ko": "눈",
+          "en": "snow"
+        }
+      },
+      {
+        "kind": "evergreen",
+        "topic": "culture",
+        "headline": "The neighbourhood bathhouse, mogyoktang",
+        "body": "Seoul’s first modern public bathhouse opened in 1925, and public baths peaked at nearly 10,000 nationwide in 2004 before apartments with private bathrooms thinned them out. The green scrubbing mitt everyone calls the “Italy towel” was first made in Busan in 1967, and professional scrubbers, sesinsa, still offer full-body scrubs.",
+        "source": {
+          "name": "The Korea Times",
+          "url": "https://www.koreatimes.co.kr/lifestyle/trends/20250219/busan-couple-documents-koreas-bathhouse-heritage"
+        },
+        "word": {
+          "ko": "목욕탕",
+          "en": "a public bathhouse"
+        }
+      }
+    ]
+  },
+  {
+    "date": "2026-12-03",
+    "items": [
+      {
+        "kind": "ahead",
+        "topic": "music",
+        "headline": "The Asia Artist Awards take over Kaohsiung this weekend",
+        "body": "AAA 2026 runs on Saturday 5 and Sunday 6 December at Kaohsiung National Stadium in Taiwan, whose 100,000 seats have sold out. Jang Won-young hosts for the sixth year in a row, joined by Ji Chang-wook, Seong Han-bin and TWICE’s Tzuyu. Disney+ streams the show worldwide.",
+        "source": {
+          "name": "Star News",
+          "url": "https://www.starnewskorea.com/en/music/2026/11/06/2026110505064567256"
+        },
+        "word": {
+          "ko": "사회자",
+          "en": "a host, an MC"
+        }
+      },
+      {
+        "kind": "evergreen",
+        "topic": "food",
+        "headline": "Oyster season: gul is at its best now",
+        "body": "Winter is oyster season, with large farms along the coast of Tongyeong and Geoje. Koreans eat gul raw with chojang, a sweet-sour chilli sauce, in gul-gukbap rice soup, or fried as jeon. Norovirus rises in winter, so food-safety officials advise cooking oysters thoroughly when possible.",
+        "source": {
+          "name": "The Korea Times",
+          "url": "https://www.koreatimes.co.kr/amp/lifestyle/travel-food/20251206/why-winter-is-best-time-to-enjoy-seafood-in-korea-from-grilled-shellfish-to-amberjack-sashimi"
+        },
+        "word": {
+          "ko": "굴",
+          "en": "an oyster"
+        }
+      }
+    ]
+  },
+  {
+    "date": "2026-12-04",
+    "items": [
+      {
+        "kind": "ahead",
+        "topic": "drama",
+        "headline": "Kim Woo-bin coaches a losing baseball team from tomorrow",
+        "body": "“Gift” starts on tvN on Saturday 5 December at 9:10 pm, Kim Woo-bin’s first tvN drama in four years. He plays a former pro pitching coach who gains a special ability after an accident and takes over a high-school team ranked near the bottom of the country. It is a 12-episode adaptation of a Kakao webtoon.",
+        "source": {
+          "name": "Wikitree",
+          "url": "https://www.wikitree.co.kr/articles/1171169"
+        },
+        "word": {
+          "ko": "감독",
+          "en": "a coach, a manager"
+        }
+      },
+      {
+        "kind": "evergreen",
+        "topic": "weather",
+        "headline": "Watch out for bingpangil",
+        "body": "Bingpangil means an icy road or pavement, a word you will hear in winter weather reports and in friends’ warnings. It joins 빙판 (a sheet of ice) and 길 (road). Its cousin 꽁꽁 얼다 means “frozen solid”.",
+        "source": {
+          "name": "Korea Economic Institute of America",
+          "url": "https://keia.org/analysis/ten-useful-korean-words-for-winter/"
+        },
+        "word": {
+          "ko": "빙판길",
+          "en": "an icy road"
+        }
+      }
+    ]
+  },
+  {
+    "date": "2026-12-05",
+    "items": [
+      {
+        "kind": "ahead",
+        "topic": "drama",
+        "headline": "“Sacred Jewel”, a Goryeo-era action epic, starts tonight",
+        "body": "JTBC’s new weekend drama premieres on Saturday 5 December at 10:40 pm. It is set in 1258, deep into Goryeo’s long war with the Mongols, and follows the escort sent after a holy relic that is meant to protect the nation; Ahn Bo-hyun plays his first lead in a period drama. Prime Video streams it worldwide.",
+        "source": {
+          "name": "Ilgan Sports",
+          "url": "https://isplus.com/article/view/isp202611120025"
+        },
+        "word": {
+          "ko": "구슬",
+          "en": "a bead, a jewel"
+        }
+      },
+      {
+        "kind": "evergreen",
+        "topic": "language",
+        "headline": "The winter goodbye: 감기 조심하세요",
+        "body": "From late autumn Koreans end calls, messages and emails with 감기 조심하세요, “be careful not to catch a cold”. It is a warm way to say take care. Among friends it becomes 감기 조심해.",
+        "source": {
+          "name": "Korea Economic Institute of America",
+          "url": "https://keia.org/analysis/ten-useful-korean-words-for-winter/"
+        },
+        "word": {
+          "ko": "감기",
+          "en": "a cold (illness)"
+        }
+      }
+    ]
+  },
+  {
+    "date": "2026-12-06",
+    "items": [
+      {
+        "kind": "ahead",
+        "topic": "weather",
+        "headline": "Tomorrow is Daeseol, “great snow”",
+        "body": "Monday 7 December is Daeseol, the seasonal division of the traditional calendar named for heavy snow, which falls when the sun reaches 255° of longitude, at 11:53 am Korean time. Two weeks later comes Dongji, the winter solstice, on 22 December. The name is a marker of the season, not a forecast.",
+        "source": {
+          "name": "National Astronomical Observatory of Japan",
+          "url": "https://eco.mtk.nao.ac.jp/cgi-bin/koyomi/cande/phenom_sekki.cgi"
+        },
+        "word": {
+          "ko": "대설",
+          "en": "heavy snow"
+        }
+      },
+      {
+        "kind": "evergreen",
+        "topic": "culture",
+        "headline": "Nubi: how Koreans quilted their way through winter",
+        "body": "Before modern heating, winter clothes were nubi, cotton padding stitched between layers of fabric in neat lines. Padded clothing was often reserved for the upper class, officials and soldiers, and records show it was sometimes paid as tax. The word is still used for quilted jackets and blankets.",
+        "source": {
+          "name": "The Korea Herald via Asia News Network",
+          "url": "https://asianews.network/how-koreans-survived-winter-the-old-fashioned-way/"
+        },
+        "word": {
+          "ko": "누비",
+          "en": "quilting"
+        }
+      }
+    ]
   }
 ]

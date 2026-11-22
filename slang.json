@@ -834,5 +834,71 @@
       "ko": "이번 주 새 영상 올라가요, 많관부!",
       "en": "New video goes up this week — please check it out!"
     }
+  },
+  {
+    "ko": "꿀팁",
+    "en": "A great tip",
+    "register": "casual",
+    "lit": "꿀 (honey) + tip",
+    "note": "Honey again means “really good”, as in 꿀잼. Blogs, YouTube titles and friends all use it for a handy trick or life hack.",
+    "example": {
+      "ko": "겨울 여행 꿀팁 좀 알려 줘",
+      "en": "Give me some good tips for a winter trip."
+    }
+  },
+  {
+    "ko": "깜놀",
+    "en": "What a shock",
+    "register": "casual",
+    "lit": "short for 깜짝 놀라다, to be startled",
+    "note": "Typed in messages and comments when something surprises you. Light and playful, never for real bad news.",
+    "example": {
+      "ko": "가격 보고 깜놀했어",
+      "en": "I was shocked when I saw the price."
+    }
+  },
+  {
+    "ko": "생파",
+    "en": "Birthday party",
+    "register": "casual",
+    "lit": "short for 생일 파티",
+    "note": "Used for any birthday get-together, from a café cake with friends to a big party. You will see it on invitations and in group chats.",
+    "example": {
+      "ko": "이번 주말에 내 생파 와!",
+      "en": "Come to my birthday party this weekend!"
+    }
+  },
+  {
+    "ko": "짤",
+    "en": "A meme picture",
+    "register": "casual",
+    "lit": "from 짤방, a picture posted so a post is not deleted",
+    "note": "Any reaction image, meme or GIF shared online. A screenshot of a funny drama scene becomes a 짤 within minutes.",
+    "example": {
+      "ko": "그 장면 벌써 짤로 돌아다녀",
+      "en": "That scene is already going around as a meme."
+    }
+  },
+  {
+    "ko": "취존",
+    "en": "Respect my taste",
+    "register": "young",
+    "lit": "short for 취향 존중, respecting preferences",
+    "note": "Said when someone teases your taste in food, music or idols. Often paired with 민초: “I like mint chocolate — 취존 please.”",
+    "example": {
+      "ko": "나 민초 좋아해, 취존해 줘",
+      "en": "I like mint chocolate — respect my taste."
+    }
+  },
+  {
+    "ko": "얼빡샷",
+    "en": "A face-filling close-up",
+    "register": "young",
+    "lit": "얼굴 (face) + 빡 (tightly) + shot",
+    "note": "A selfie or photo where the face fills the whole frame. Idols post them for fans, and it is a common style of photo booth and phone selfie.",
+    "example": {
+      "ko": "오늘은 얼빡샷 찍어 볼까?",
+      "en": "Shall we take face-filling close-ups today?"
+    }
   }
 ]
